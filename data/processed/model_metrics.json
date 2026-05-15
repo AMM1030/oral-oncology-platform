@@ -1,0 +1,9 @@
+{
+  "n_train": 4000,
+  "n_test": 1000,
+  "roc_auc": 0.7538882882882884,
+  "pr_auc": 0.2528225819865879,
+  "recall_cancer": 0.25333333333333335,
+  "precision_cancer": 0.23170731707317074,
+  "feature_count": 24
+}
