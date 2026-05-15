@@ -1,0 +1,280 @@
+{
+  "resourceType": "Bundle",
+  "id": "56c5508f-58a3-4808-a673-7616fbd658da",
+  "type": "collection",
+  "timestamp": "2026-05-15T19:52:00Z",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "P00042",
+        "identifier": [
+          {
+            "system": "https://oral-onc.local/patients",
+            "value": "P00042"
+          }
+        ],
+        "gender": "male",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race",
+            "valueString": "White"
+          }
+        ],
+        "_age": 67
+      },
+      "fullUrl": "urn:uuid:P00042"
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "id": "e1404533-2d71-45df-8e91-342ffcbe4371",
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history",
+                "display": "Social History"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "LOINC",
+              "code": "72166-2",
+              "display": "Tobacco smoking status"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "effectiveDateTime": "2026-05-15T19:52:00Z",
+        "valueString": "Current"
+      },
+      "fullUrl": "urn:uuid:e1404533-2d71-45df-8e91-342ffcbe4371"
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "id": "98edc26a-a04c-41d6-ab4d-240a2ee16520",
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history",
+                "display": "Social History"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "LOINC",
+              "code": "68518-0",
+              "display": "How often do you have a drink containing alcohol"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "effectiveDateTime": "2026-05-15T19:52:00Z",
+        "valueString": "Heavy"
+      },
+      "fullUrl": "urn:uuid:98edc26a-a04c-41d6-ab4d-240a2ee16520"
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "id": "1473799e-a4bc-4371-97ea-3461267fa4ab",
+        "status": "final",
+        "category": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+                "code": "social-history",
+                "display": "Social History"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "system": "LOINC",
+              "code": "59420-2",
+              "display": "HPV DNA test status"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "effectiveDateTime": "2026-05-15T19:52:00Z",
+        "valueString": "Positive"
+      },
+      "fullUrl": "urn:uuid:1473799e-a4bc-4371-97ea-3461267fa4ab"
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "d9e1ccef-5a45-4824-9b63-84edb193d65c",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+              "code": "active"
+            }
+          ]
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+              "code": "provisional"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "SCT",
+              "code": "414494005",
+              "display": "Oral leukoplakia"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "note": [
+          {
+            "text": "NLP-extracted finding: 'leukoplakia'"
+          }
+        ],
+        "recordedDate": "2026-05-15T19:52:00Z"
+      },
+      "fullUrl": "urn:uuid:d9e1ccef-5a45-4824-9b63-84edb193d65c"
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "78e26cac-bf5c-4e2b-92e5-afacf656c3b3",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+              "code": "active"
+            }
+          ]
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+              "code": "provisional"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "SCT",
+              "code": "26284000",
+              "display": "Oral ulcer"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "note": [
+          {
+            "text": "NLP-extracted finding: 'non-healing ulcer'"
+          }
+        ],
+        "recordedDate": "2026-05-15T19:52:00Z"
+      },
+      "fullUrl": "urn:uuid:78e26cac-bf5c-4e2b-92e5-afacf656c3b3"
+    },
+    {
+      "resource": {
+        "resourceType": "Condition",
+        "id": "619b7b1a-ea81-416e-a89d-bab48c3ce9a6",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+              "code": "active"
+            }
+          ]
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+              "code": "provisional"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "system": "SCT",
+              "code": "300919008",
+              "display": "Lesion of oral cavity"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "note": [
+          {
+            "text": "NLP-extracted finding: 'urgent referral'"
+          }
+        ],
+        "recordedDate": "2026-05-15T19:52:00Z"
+      },
+      "fullUrl": "urn:uuid:619b7b1a-ea81-416e-a89d-bab48c3ce9a6"
+    },
+    {
+      "resource": {
+        "resourceType": "RiskAssessment",
+        "id": "9a3ac51b-c460-4a33-a3b4-4094d27c775b",
+        "status": "final",
+        "subject": {
+          "reference": "Patient/P00042"
+        },
+        "occurrenceDateTime": "2026-05-15T19:52:00Z",
+        "method": {
+          "text": "ML model (XGBoost) + NLP + rule-based CDSS"
+        },
+        "prediction": [
+          {
+            "outcome": {
+              "text": "Oral cancer (predicted)"
+            },
+            "probabilityDecimal": 0.55,
+            "rationale": "ML predicted P(cancer)=0.55. 5 CDSS flag(s) raised."
+          }
+        ],
+        "note": [
+          {
+            "text": "[High] High-Priority Oral Oncology Referral; [Medium] High Predicted Oral Cancer Risk (ML); [High] Biopsy Follow-Up Gap; [Medium] Oral Cancer Screening Overdue; [Low] High No-Show Risk"
+          }
+        ]
+      },
+      "fullUrl": "urn:uuid:9a3ac51b-c460-4a33-a3b4-4094d27c775b"
+    }
+  ]
+}
