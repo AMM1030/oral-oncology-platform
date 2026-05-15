@@ -1,0 +1,235 @@
+pathology_id,patient_id,biopsy_date,diagnosis_result,tumor_site,tumor_stage,dysplasia_grade
+PA00001,P00018,2023-11-03,Benign hyperkeratosis,retromolar trigone,,None
+PA00002,P00100,2024-07-23,Carcinoma in situ,lower lip,III,N/A
+PA00003,P00126,2025-02-21,Squamous Cell Carcinoma,lateral tongue,III,N/A
+PA00004,P00135,2024-09-04,Squamous Cell Carcinoma,lateral tongue,I,N/A
+PA00005,P00189,2024-10-26,Inflammatory only,buccal mucosa,,Moderate
+PA00006,P00208,2026-02-19,Benign hyperkeratosis,tonsillar pillar,,Mild
+PA00007,P00221,2023-11-17,Carcinoma in situ,floor of mouth,III,N/A
+PA00008,P00252,2025-07-12,Mild dysplasia,lower lip,,Mild
+PA00009,P00268,2026-01-09,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00010,P00307,2024-08-17,Benign hyperkeratosis,hard palate,,Moderate
+PA00011,P00324,2023-10-03,Mild dysplasia,tonsillar pillar,,Mild
+PA00012,P00326,2026-02-06,Benign hyperkeratosis,ventral tongue,,Mild
+PA00013,P00339,2025-04-03,Inflammatory only,lateral tongue,,Moderate
+PA00014,P00343,2024-11-15,Mild dysplasia,lateral tongue,,None
+PA00015,P00380,2024-12-24,Benign hyperkeratosis,gingiva,,None
+PA00016,P00418,2024-01-02,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00017,P00436,2025-01-16,Mild dysplasia,lateral tongue,,Mild
+PA00018,P00441,2024-06-19,Lichen planus,floor of mouth,,None
+PA00019,P00448,2025-11-21,Mild dysplasia,floor of mouth,,Mild
+PA00020,P00452,2023-12-14,Benign hyperkeratosis,soft palate,,None
+PA00021,P00465,2025-01-08,Carcinoma in situ,ventral tongue,II,N/A
+PA00022,P00483,2024-12-07,Benign hyperkeratosis,soft palate,,None
+PA00023,P00487,2023-08-02,Mild dysplasia,lateral tongue,,Mild
+PA00024,P00537,2026-04-03,Benign hyperkeratosis,gingiva,,Moderate
+PA00025,P00591,2023-12-24,Squamous Cell Carcinoma,hard palate,III,N/A
+PA00026,P00619,2024-09-25,Mild dysplasia,buccal mucosa,,Mild
+PA00027,P00656,2026-03-13,Squamous Cell Carcinoma,ventral tongue,II,N/A
+PA00028,P00672,2026-03-11,Squamous Cell Carcinoma,lower lip,II,N/A
+PA00029,P00679,2024-07-18,Benign hyperkeratosis,gingiva,,None
+PA00030,P00680,2025-08-03,Verrucous Carcinoma,buccal mucosa,I,N/A
+PA00031,P00728,2023-07-29,Benign hyperkeratosis,gingiva,,None
+PA00032,P00729,2025-01-22,Squamous Cell Carcinoma,retromolar trigone,II,N/A
+PA00033,P00731,2023-11-13,Severe Dysplasia,lateral tongue,II,N/A
+PA00034,P00752,2023-12-21,Squamous Cell Carcinoma,retromolar trigone,II,N/A
+PA00035,P00791,2025-12-23,Carcinoma in situ,floor of mouth,I,N/A
+PA00036,P00819,2025-02-12,Mild dysplasia,hard palate,,Mild
+PA00037,P00828,2026-01-02,Severe Dysplasia,floor of mouth,I,N/A
+PA00038,P00843,2024-08-16,Inflammatory only,soft palate,,Mild
+PA00039,P00870,2024-12-15,Benign hyperkeratosis,hard palate,,None
+PA00040,P00884,2025-06-20,Lichen planus,lower lip,,Mild
+PA00041,P00887,2023-09-17,Mild dysplasia,retromolar trigone,,Mild
+PA00042,P00907,2026-02-16,Mild dysplasia,gingiva,,Mild
+PA00043,P00982,2025-01-27,Mild dysplasia,soft palate,,Mild
+PA00044,P00989,2025-05-24,Inflammatory only,retromolar trigone,,None
+PA00045,P01029,2026-05-13,Benign hyperkeratosis,lateral tongue,,None
+PA00046,P01081,2024-11-27,Benign hyperkeratosis,lower lip,,None
+PA00047,P01088,2024-04-27,Benign hyperkeratosis,hard palate,,Mild
+PA00048,P01132,2024-12-04,Squamous Cell Carcinoma,soft palate,III,N/A
+PA00049,P01156,2025-01-27,Inflammatory only,ventral tongue,,None
+PA00050,P01161,2024-12-18,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00051,P01182,2024-01-15,Mild dysplasia,ventral tongue,,Mild
+PA00052,P01227,2023-12-18,Squamous Cell Carcinoma,hard palate,III,N/A
+PA00053,P01236,2026-02-12,Benign hyperkeratosis,hard palate,,Moderate
+PA00054,P01240,2025-11-10,Squamous Cell Carcinoma,tonsillar pillar,II,N/A
+PA00055,P01268,2025-12-22,Inflammatory only,lateral tongue,,None
+PA00056,P01303,2024-06-04,Lichen planus,ventral tongue,,Mild
+PA00057,P01305,2024-04-25,Squamous Cell Carcinoma,lateral tongue,I,N/A
+PA00058,P01314,2025-07-27,Squamous Cell Carcinoma,gingiva,II,N/A
+PA00059,P01412,2023-11-22,Squamous Cell Carcinoma,lower lip,IV,N/A
+PA00060,P01421,2025-02-10,Squamous Cell Carcinoma,hard palate,III,N/A
+PA00061,P01446,2025-11-04,Benign hyperkeratosis,gingiva,,Moderate
+PA00062,P01457,2025-07-26,Benign hyperkeratosis,gingiva,,None
+PA00063,P01460,2025-05-25,Severe Dysplasia,lower lip,II,N/A
+PA00064,P01551,2026-01-09,Mild dysplasia,gingiva,,None
+PA00065,P01594,2025-03-12,Lichen planus,floor of mouth,,Moderate
+PA00066,P01619,2024-05-29,Benign hyperkeratosis,gingiva,,None
+PA00067,P01626,2025-08-10,Squamous Cell Carcinoma,lateral tongue,II,N/A
+PA00068,P01644,2023-07-26,Benign hyperkeratosis,hard palate,,None
+PA00069,P01646,2024-12-12,Benign hyperkeratosis,retromolar trigone,,Mild
+PA00070,P01680,2024-07-26,Squamous Cell Carcinoma,lower lip,II,N/A
+PA00071,P01681,2023-06-27,Benign hyperkeratosis,lateral tongue,,Mild
+PA00072,P01685,2024-10-22,Lichen planus,buccal mucosa,,None
+PA00073,P01756,2024-09-05,Squamous Cell Carcinoma,lateral tongue,III,N/A
+PA00074,P01778,2026-03-30,Severe Dysplasia,buccal mucosa,III,N/A
+PA00075,P01788,2023-06-29,Benign hyperkeratosis,soft palate,,Mild
+PA00076,P01834,2025-04-06,Lichen planus,gingiva,,Mild
+PA00077,P01856,2025-09-14,Squamous Cell Carcinoma,ventral tongue,II,N/A
+PA00078,P01925,2025-03-17,Squamous Cell Carcinoma,retromolar trigone,I,N/A
+PA00079,P01950,2026-01-02,Benign hyperkeratosis,hard palate,,None
+PA00080,P01982,2023-12-15,Severe Dysplasia,lower lip,II,N/A
+PA00081,P01991,2023-10-20,Severe Dysplasia,buccal mucosa,IV,N/A
+PA00082,P02043,2025-07-04,Inflammatory only,lateral tongue,,Mild
+PA00083,P02051,2025-05-17,Benign hyperkeratosis,floor of mouth,,Mild
+PA00084,P02065,2026-01-09,Squamous Cell Carcinoma,ventral tongue,III,N/A
+PA00085,P02072,2025-12-10,Squamous Cell Carcinoma,lateral tongue,II,N/A
+PA00086,P02087,2023-08-05,Inflammatory only,retromolar trigone,,None
+PA00087,P02111,2023-12-19,Squamous Cell Carcinoma,floor of mouth,II,N/A
+PA00088,P02132,2024-11-01,Squamous Cell Carcinoma,soft palate,II,N/A
+PA00089,P02154,2024-09-05,Squamous Cell Carcinoma,gingiva,IV,N/A
+PA00090,P02156,2023-10-25,Carcinoma in situ,lateral tongue,II,N/A
+PA00091,P02174,2024-07-03,Squamous Cell Carcinoma,gingiva,II,N/A
+PA00092,P02178,2024-10-23,Benign hyperkeratosis,tonsillar pillar,,Mild
+PA00093,P02219,2024-03-22,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00094,P02229,2024-02-18,Benign hyperkeratosis,ventral tongue,,Mild
+PA00095,P02241,2023-11-24,Squamous Cell Carcinoma,lateral tongue,III,N/A
+PA00096,P02299,2025-09-16,Benign hyperkeratosis,lateral tongue,,Mild
+PA00097,P02337,2025-01-18,Carcinoma in situ,floor of mouth,III,N/A
+PA00098,P02365,2024-12-22,Lichen planus,hard palate,,Mild
+PA00099,P02379,2024-12-20,Benign hyperkeratosis,soft palate,,Mild
+PA00100,P02384,2026-04-22,Benign hyperkeratosis,gingiva,,None
+PA00101,P02389,2026-05-01,Benign hyperkeratosis,lower lip,,Mild
+PA00102,P02411,2024-04-27,Benign hyperkeratosis,buccal mucosa,,Mild
+PA00103,P02425,2024-11-11,Inflammatory only,buccal mucosa,,None
+PA00104,P02433,2025-10-06,Benign hyperkeratosis,buccal mucosa,,Mild
+PA00105,P02447,2023-10-23,Severe Dysplasia,gingiva,II,N/A
+PA00106,P02454,2024-01-11,Mild dysplasia,lower lip,,Mild
+PA00107,P02478,2025-10-15,Carcinoma in situ,hard palate,II,N/A
+PA00108,P02493,2025-12-21,Lichen planus,lateral tongue,,None
+PA00109,P02495,2024-11-08,Benign hyperkeratosis,retromolar trigone,,Mild
+PA00110,P02520,2025-12-19,Benign hyperkeratosis,buccal mucosa,,None
+PA00111,P02541,2025-12-04,Severe Dysplasia,hard palate,I,N/A
+PA00112,P02542,2023-09-27,Squamous Cell Carcinoma,soft palate,IV,N/A
+PA00113,P02543,2025-05-08,Benign hyperkeratosis,soft palate,,None
+PA00114,P02597,2024-08-15,Benign hyperkeratosis,lower lip,,None
+PA00115,P02612,2024-12-04,Inflammatory only,retromolar trigone,,None
+PA00116,P02619,2025-12-04,Benign hyperkeratosis,buccal mucosa,,Mild
+PA00117,P02627,2025-11-16,Inflammatory only,ventral tongue,,Mild
+PA00118,P02660,2025-12-09,Squamous Cell Carcinoma,lateral tongue,IV,N/A
+PA00119,P02662,2024-09-09,Squamous Cell Carcinoma,buccal mucosa,IV,N/A
+PA00120,P02664,2025-02-22,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00121,P02734,2024-05-10,Benign hyperkeratosis,buccal mucosa,,Mild
+PA00122,P02751,2024-08-03,Benign hyperkeratosis,floor of mouth,,None
+PA00123,P02768,2023-07-01,Mild dysplasia,retromolar trigone,,None
+PA00124,P02775,2024-06-22,Squamous Cell Carcinoma,floor of mouth,II,N/A
+PA00125,P02777,2023-08-26,Benign hyperkeratosis,tonsillar pillar,,Mild
+PA00126,P02784,2023-10-18,Lichen planus,soft palate,,None
+PA00127,P02801,2024-08-09,Mild dysplasia,hard palate,,None
+PA00128,P02804,2026-01-13,Squamous Cell Carcinoma,soft palate,III,N/A
+PA00129,P02807,2026-01-24,Mild dysplasia,lower lip,,None
+PA00130,P02832,2025-06-02,Mild dysplasia,ventral tongue,,None
+PA00131,P02862,2025-05-11,Mild dysplasia,lower lip,,Mild
+PA00132,P02865,2023-12-18,Benign hyperkeratosis,retromolar trigone,,Mild
+PA00133,P02868,2025-11-15,Mild dysplasia,buccal mucosa,,Mild
+PA00134,P02881,2026-04-13,Benign hyperkeratosis,gingiva,,Mild
+PA00135,P02889,2023-12-17,Inflammatory only,floor of mouth,,Mild
+PA00136,P02890,2023-11-09,Squamous Cell Carcinoma,retromolar trigone,III,N/A
+PA00137,P02891,2024-08-12,Squamous Cell Carcinoma,gingiva,II,N/A
+PA00138,P02893,2023-12-11,Benign hyperkeratosis,floor of mouth,,Moderate
+PA00139,P02901,2025-10-12,Mild dysplasia,lower lip,,Moderate
+PA00140,P02917,2025-01-22,Carcinoma in situ,soft palate,IV,N/A
+PA00141,P02943,2025-05-20,Severe Dysplasia,lower lip,II,N/A
+PA00142,P02998,2024-08-31,Lichen planus,retromolar trigone,,None
+PA00143,P03004,2025-12-06,Inflammatory only,ventral tongue,,Mild
+PA00144,P03009,2024-12-24,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00145,P03016,2024-02-11,Squamous Cell Carcinoma,soft palate,III,N/A
+PA00146,P03029,2025-12-06,Benign hyperkeratosis,floor of mouth,,Mild
+PA00147,P03043,2024-12-01,Severe Dysplasia,hard palate,II,N/A
+PA00148,P03060,2025-06-17,Benign hyperkeratosis,ventral tongue,,Mild
+PA00149,P03077,2025-01-15,Squamous Cell Carcinoma,gingiva,III,N/A
+PA00150,P03080,2026-04-03,Benign hyperkeratosis,lower lip,,None
+PA00151,P03089,2025-07-08,Severe Dysplasia,ventral tongue,III,N/A
+PA00152,P03134,2024-09-21,Benign hyperkeratosis,buccal mucosa,,Moderate
+PA00153,P03152,2024-06-30,Squamous Cell Carcinoma,gingiva,II,N/A
+PA00154,P03183,2025-01-06,Mild dysplasia,tonsillar pillar,,None
+PA00155,P03190,2025-01-29,Benign hyperkeratosis,buccal mucosa,,Mild
+PA00156,P03204,2024-07-06,Lichen planus,soft palate,,Moderate
+PA00157,P03219,2025-02-04,Benign hyperkeratosis,tonsillar pillar,,Mild
+PA00158,P03243,2023-10-20,Inflammatory only,lower lip,,Moderate
+PA00159,P03261,2025-06-28,Severe Dysplasia,ventral tongue,I,N/A
+PA00160,P03284,2023-10-24,Squamous Cell Carcinoma,lateral tongue,IV,N/A
+PA00161,P03285,2023-06-12,Benign hyperkeratosis,lateral tongue,,None
+PA00162,P03288,2026-03-26,Mild dysplasia,lateral tongue,,None
+PA00163,P03292,2023-06-17,Inflammatory only,lower lip,,Mild
+PA00164,P03313,2026-01-30,Mild dysplasia,lateral tongue,,Mild
+PA00165,P03321,2025-11-05,Squamous Cell Carcinoma,lower lip,III,N/A
+PA00166,P03353,2025-10-03,Squamous Cell Carcinoma,lateral tongue,IV,N/A
+PA00167,P03404,2025-07-27,Lichen planus,ventral tongue,,Mild
+PA00168,P03418,2024-12-03,Squamous Cell Carcinoma,tonsillar pillar,II,N/A
+PA00169,P03440,2023-07-25,Squamous Cell Carcinoma,tonsillar pillar,III,N/A
+PA00170,P03463,2025-10-25,Inflammatory only,floor of mouth,,Mild
+PA00171,P03512,2024-12-31,Squamous Cell Carcinoma,soft palate,I,N/A
+PA00172,P03577,2024-03-01,Benign hyperkeratosis,gingiva,,None
+PA00173,P03599,2026-02-20,Squamous Cell Carcinoma,tonsillar pillar,IV,N/A
+PA00174,P03602,2023-07-23,Lichen planus,tonsillar pillar,,None
+PA00175,P03623,2024-08-18,Squamous Cell Carcinoma,lateral tongue,II,N/A
+PA00176,P03644,2026-04-10,Lichen planus,lower lip,,None
+PA00177,P03651,2024-04-23,Benign hyperkeratosis,gingiva,,None
+PA00178,P03669,2025-10-25,Benign hyperkeratosis,hard palate,,None
+PA00179,P03709,2026-03-27,Inflammatory only,gingiva,,Mild
+PA00180,P03715,2024-05-31,Mild dysplasia,hard palate,,None
+PA00181,P03737,2025-08-06,Inflammatory only,hard palate,,None
+PA00182,P03744,2024-06-27,Mild dysplasia,retromolar trigone,,None
+PA00183,P03749,2023-12-19,Severe Dysplasia,retromolar trigone,II,N/A
+PA00184,P03790,2024-06-14,Squamous Cell Carcinoma,ventral tongue,III,N/A
+PA00185,P03814,2025-03-06,Benign hyperkeratosis,gingiva,,Mild
+PA00186,P03830,2023-08-14,Squamous Cell Carcinoma,floor of mouth,II,N/A
+PA00187,P03855,2024-11-01,Lichen planus,buccal mucosa,,None
+PA00188,P03886,2025-10-19,Lichen planus,lateral tongue,,Mild
+PA00189,P03923,2023-11-15,Benign hyperkeratosis,gingiva,,Mild
+PA00190,P03932,2023-06-08,Mild dysplasia,gingiva,,Mild
+PA00191,P03950,2023-08-06,Squamous Cell Carcinoma,hard palate,I,N/A
+PA00192,P03951,2025-03-22,Benign hyperkeratosis,buccal mucosa,,None
+PA00193,P04001,2024-04-07,Benign hyperkeratosis,buccal mucosa,,None
+PA00194,P04013,2024-12-21,Mild dysplasia,buccal mucosa,,Mild
+PA00195,P04025,2025-11-12,Inflammatory only,ventral tongue,,Moderate
+PA00196,P04035,2024-03-05,Squamous Cell Carcinoma,buccal mucosa,IV,N/A
+PA00197,P04041,2024-09-10,Lichen planus,buccal mucosa,,Mild
+PA00198,P04044,2025-02-14,Inflammatory only,tonsillar pillar,,None
+PA00199,P04067,2026-03-04,Squamous Cell Carcinoma,buccal mucosa,III,N/A
+PA00200,P04082,2025-03-26,Benign hyperkeratosis,lateral tongue,,None
+PA00201,P04144,2025-02-04,Severe Dysplasia,ventral tongue,I,N/A
+PA00202,P04183,2024-03-11,Benign hyperkeratosis,gingiva,,None
+PA00203,P04203,2025-05-02,Mild dysplasia,hard palate,,None
+PA00204,P04220,2023-09-13,Mild dysplasia,floor of mouth,,None
+PA00205,P04292,2025-02-24,Mild dysplasia,lateral tongue,,None
+PA00206,P04330,2024-04-14,Mild dysplasia,lower lip,,Mild
+PA00207,P04349,2025-08-03,Benign hyperkeratosis,buccal mucosa,,None
+PA00208,P04370,2024-04-15,Benign hyperkeratosis,lateral tongue,,None
+PA00209,P04423,2024-09-10,Benign hyperkeratosis,lower lip,,Mild
+PA00210,P04437,2025-10-12,Squamous Cell Carcinoma,lower lip,I,N/A
+PA00211,P04450,2023-07-19,Squamous Cell Carcinoma,lower lip,I,N/A
+PA00212,P04459,2024-08-24,Squamous Cell Carcinoma,gingiva,IV,N/A
+PA00213,P04478,2025-05-08,Benign hyperkeratosis,lower lip,,None
+PA00214,P04513,2025-04-05,Benign hyperkeratosis,ventral tongue,,Mild
+PA00215,P04573,2023-08-16,Squamous Cell Carcinoma,ventral tongue,II,N/A
+PA00216,P04593,2026-04-18,Squamous Cell Carcinoma,buccal mucosa,III,N/A
+PA00217,P04601,2025-06-21,Squamous Cell Carcinoma,retromolar trigone,II,N/A
+PA00218,P04640,2024-11-02,Squamous Cell Carcinoma,tonsillar pillar,I,N/A
+PA00219,P04650,2024-10-22,Benign hyperkeratosis,soft palate,,None
+PA00220,P04684,2024-01-27,Severe Dysplasia,gingiva,I,N/A
+PA00221,P04693,2025-09-23,Squamous Cell Carcinoma,lateral tongue,III,N/A
+PA00222,P04727,2025-09-04,Severe Dysplasia,soft palate,II,N/A
+PA00223,P04739,2023-09-12,Verrucous Carcinoma,lateral tongue,II,N/A
+PA00224,P04759,2024-07-19,Lichen planus,lateral tongue,,Mild
+PA00225,P04773,2024-03-11,Squamous Cell Carcinoma,ventral tongue,II,N/A
+PA00226,P04818,2025-07-16,Squamous Cell Carcinoma,retromolar trigone,I,N/A
+PA00227,P04845,2024-09-16,Severe Dysplasia,lateral tongue,III,N/A
+PA00228,P04864,2025-08-08,Lichen planus,retromolar trigone,,Mild
+PA00229,P04866,2024-02-07,Squamous Cell Carcinoma,lateral tongue,II,N/A
+PA00230,P04906,2025-06-23,Squamous Cell Carcinoma,lateral tongue,III,N/A
+PA00231,P04921,2024-04-16,Squamous Cell Carcinoma,retromolar trigone,I,N/A
+PA00232,P04986,2024-06-25,Severe Dysplasia,soft palate,I,N/A
+PA00233,P04989,2024-04-03,Mild dysplasia,soft palate,,None
+PA00234,P04991,2024-08-06,Squamous Cell Carcinoma,retromolar trigone,II,N/A

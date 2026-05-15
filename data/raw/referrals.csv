@@ -1,0 +1,1039 @@
+referral_id,patient_id,referral_date,referral_type,referral_status,days_to_specialist_visit
+R00001,P00007,2023-10-10,Oral Medicine,Completed,29.0
+R00002,P00009,2024-10-13,Medical Oncology,Pending,
+R00003,P00011,2024-11-02,ENT / Head & Neck Surgery,Pending,
+R00004,P00016,2024-03-10,ENT / Head & Neck Surgery,No-show,
+R00005,P00018,2023-09-18,ENT / Head & Neck Surgery,Completed,41.0
+R00006,P00045,2025-05-29,Oral Surgery,No-show,
+R00007,P00046,2023-09-06,Oral Medicine,Pending,
+R00008,P00049,2024-05-03,Medical Oncology,Completed,30.0
+R00009,P00050,2023-05-13,Oral Surgery,Completed,25.0
+R00010,P00053,2025-06-15,ENT / Head & Neck Surgery,Completed,27.0
+R00011,P00068,2024-08-26,Oral Surgery,Pending,
+R00012,P00076,2024-11-21,Oral Surgery,Completed,24.0
+R00013,P00087,2023-11-28,Medical Oncology,No-show,
+R00014,P00094,2023-07-01,Oral Surgery,Cancelled,
+R00015,P00095,2024-11-08,Oral Medicine,Completed,33.0
+R00016,P00096,2026-02-18,ENT / Head & Neck Surgery,Cancelled,
+R00017,P00100,2024-07-07,Medical Oncology,Completed,13.0
+R00018,P00107,2025-01-24,Oral Surgery,No-show,
+R00019,P00114,2023-05-04,Oral Medicine,Cancelled,
+R00020,P00122,2024-01-21,Oral Surgery,Completed,25.0
+R00021,P00126,2025-01-26,Oral Medicine,Completed,23.0
+R00022,P00128,2025-03-18,Radiation Oncology,Pending,
+R00023,P00130,2025-04-03,Oral Surgery,Completed,20.0
+R00024,P00132,2023-10-19,Oral Surgery,Completed,21.0
+R00025,P00135,2024-07-11,Oral Medicine,Completed,43.0
+R00026,P00137,2025-03-30,Oral Surgery,No-show,
+R00027,P00148,2024-12-28,Oral Surgery,Pending,
+R00028,P00155,2023-10-23,Oral Surgery,Pending,
+R00029,P00161,2025-12-25,Oral Medicine,Completed,2.0
+R00030,P00163,2024-03-11,Radiation Oncology,No-show,
+R00031,P00168,2025-12-03,ENT / Head & Neck Surgery,Pending,
+R00032,P00169,2025-12-26,Oral Surgery,Pending,
+R00033,P00171,2026-03-24,Oral Surgery,Pending,
+R00034,P00174,2025-12-01,Oral Surgery,Completed,14.0
+R00035,P00175,2025-07-16,Oral Surgery,Completed,21.0
+R00036,P00178,2023-10-21,ENT / Head & Neck Surgery,Pending,
+R00037,P00189,2024-09-24,Oral Surgery,Completed,28.0
+R00038,P00200,2025-08-28,Oral Medicine,Completed,24.0
+R00039,P00208,2026-01-08,ENT / Head & Neck Surgery,Completed,35.0
+R00040,P00210,2023-11-08,Oral Medicine,Pending,
+R00041,P00214,2024-07-31,ENT / Head & Neck Surgery,Pending,
+R00042,P00216,2026-02-19,Radiation Oncology,Completed,21.0
+R00043,P00219,2024-11-03,Oral Surgery,Completed,19.0
+R00044,P00221,2023-10-12,Oral Surgery,Completed,29.0
+R00045,P00225,2024-06-12,Oral Surgery,Completed,29.0
+R00046,P00226,2024-02-20,ENT / Head & Neck Surgery,Pending,
+R00047,P00228,2023-08-15,Oral Medicine,Completed,7.0
+R00048,P00239,2024-01-22,Oral Surgery,Completed,20.0
+R00049,P00241,2024-04-22,Oral Surgery,Completed,17.0
+R00050,P00245,2026-03-08,Oral Medicine,Pending,
+R00051,P00246,2024-05-06,Oral Surgery,Pending,
+R00052,P00250,2025-12-21,ENT / Head & Neck Surgery,No-show,
+R00053,P00252,2025-06-21,Medical Oncology,Completed,13.0
+R00054,P00253,2024-12-11,ENT / Head & Neck Surgery,Completed,14.0
+R00055,P00256,2025-04-05,Oral Surgery,Completed,16.0
+R00056,P00261,2025-05-13,Oral Medicine,Completed,43.0
+R00057,P00268,2025-12-09,Oral Surgery,Completed,27.0
+R00058,P00277,2024-07-13,Oral Medicine,Completed,16.0
+R00059,P00289,2023-09-12,Oral Surgery,Pending,
+R00060,P00298,2023-07-09,Oral Surgery,No-show,
+R00061,P00306,2026-01-28,ENT / Head & Neck Surgery,Pending,
+R00062,P00307,2024-07-27,Radiation Oncology,Completed,19.0
+R00063,P00309,2025-05-18,ENT / Head & Neck Surgery,Pending,
+R00064,P00316,2026-02-25,Oral Surgery,Pending,
+R00065,P00318,2026-01-03,Oral Surgery,Completed,25.0
+R00066,P00320,2023-11-26,Medical Oncology,Cancelled,
+R00067,P00324,2023-09-06,Medical Oncology,Completed,22.0
+R00068,P00326,2026-01-02,Oral Surgery,Completed,26.0
+R00069,P00335,2025-08-09,Oral Medicine,Completed,47.0
+R00070,P00336,2025-03-01,Oral Surgery,Pending,
+R00071,P00339,2025-02-13,Medical Oncology,Completed,39.0
+R00072,P00343,2024-11-02,Oral Medicine,Completed,6.0
+R00073,P00349,2025-05-25,Oral Surgery,Completed,26.0
+R00074,P00350,2024-12-15,Oral Surgery,Completed,36.0
+R00075,P00356,2023-10-19,Oral Medicine,Pending,
+R00076,P00358,2024-01-03,Oral Surgery,Pending,
+R00077,P00365,2024-06-15,Oral Surgery,Pending,
+R00078,P00370,2023-07-22,Oral Surgery,Completed,34.0
+R00079,P00376,2024-07-01,Oral Medicine,Completed,35.0
+R00080,P00380,2024-11-07,Oral Surgery,Completed,44.0
+R00081,P00388,2025-05-29,Radiation Oncology,Cancelled,
+R00082,P00400,2025-04-13,Radiation Oncology,Pending,
+R00083,P00412,2024-12-27,ENT / Head & Neck Surgery,Pending,
+R00084,P00417,2023-11-02,Oral Surgery,No-show,
+R00085,P00418,2023-11-13,Oral Surgery,Completed,37.0
+R00086,P00436,2024-12-14,ENT / Head & Neck Surgery,Completed,20.0
+R00087,P00441,2024-05-24,Oral Medicine,Completed,14.0
+R00088,P00444,2026-04-03,Oral Surgery,Completed,25.0
+R00089,P00448,2025-10-08,ENT / Head & Neck Surgery,Completed,31.0
+R00090,P00451,2025-06-19,Oral Medicine,No-show,
+R00091,P00452,2023-11-30,Oral Surgery,Completed,6.0
+R00092,P00453,2024-07-19,Medical Oncology,Pending,
+R00093,P00460,2023-08-27,Oral Medicine,Pending,
+R00094,P00465,2024-12-23,Oral Medicine,Completed,11.0
+R00095,P00468,2025-08-03,ENT / Head & Neck Surgery,Pending,
+R00096,P00474,2025-01-30,Oral Surgery,No-show,
+R00097,P00483,2024-10-23,Oral Medicine,Completed,34.0
+R00098,P00487,2023-06-18,ENT / Head & Neck Surgery,Completed,32.0
+R00099,P00493,2024-10-23,Radiation Oncology,Cancelled,
+R00100,P00512,2025-02-02,Oral Surgery,No-show,
+R00101,P00517,2024-10-03,Medical Oncology,Pending,
+R00102,P00521,2026-02-24,Medical Oncology,Completed,7.0
+R00103,P00527,2026-02-01,Oral Surgery,Cancelled,
+R00104,P00528,2024-02-21,ENT / Head & Neck Surgery,Completed,19.0
+R00105,P00530,2023-08-29,Medical Oncology,Completed,21.0
+R00106,P00537,2026-03-18,Oral Medicine,Completed,5.0
+R00107,P00540,2024-12-22,Radiation Oncology,Pending,
+R00108,P00541,2024-04-08,Oral Surgery,Pending,
+R00109,P00550,2024-10-24,Oral Surgery,No-show,
+R00110,P00552,2023-12-14,Oral Surgery,No-show,
+R00111,P00580,2025-02-27,ENT / Head & Neck Surgery,Completed,32.0
+R00112,P00586,2026-04-03,Oral Surgery,Pending,
+R00113,P00591,2023-12-04,Oral Surgery,Completed,13.0
+R00114,P00595,2025-05-14,Medical Oncology,Pending,
+R00115,P00596,2025-11-09,Oral Medicine,Completed,28.0
+R00116,P00601,2025-01-18,Radiation Oncology,Pending,
+R00117,P00612,2023-08-29,ENT / Head & Neck Surgery,No-show,
+R00118,P00614,2024-11-25,Medical Oncology,Cancelled,
+R00119,P00619,2024-08-24,Oral Medicine,Completed,31.0
+R00120,P00625,2026-03-20,Oral Medicine,Completed,30.0
+R00121,P00633,2025-09-01,Oral Surgery,Completed,17.0
+R00122,P00635,2025-05-20,ENT / Head & Neck Surgery,Completed,23.0
+R00123,P00641,2024-11-21,Medical Oncology,Cancelled,
+R00124,P00642,2025-12-01,Oral Surgery,Cancelled,
+R00125,P00645,2023-11-15,Oral Surgery,Cancelled,
+R00126,P00648,2025-02-21,Oral Surgery,Pending,
+R00127,P00651,2024-06-03,Oral Surgery,Cancelled,
+R00128,P00653,2025-04-14,Oral Medicine,Completed,32.0
+R00129,P00656,2026-01-28,Oral Medicine,Completed,36.0
+R00130,P00657,2024-05-10,Medical Oncology,Pending,
+R00131,P00658,2024-06-10,ENT / Head & Neck Surgery,Pending,
+R00132,P00659,2025-07-19,Oral Medicine,Pending,
+R00133,P00662,2025-09-01,Medical Oncology,Completed,20.0
+R00134,P00664,2025-08-24,Medical Oncology,Pending,
+R00135,P00671,2025-12-25,Radiation Oncology,Pending,
+R00136,P00672,2026-01-21,Oral Surgery,Completed,36.0
+R00137,P00678,2025-03-13,Oral Surgery,Cancelled,
+R00138,P00679,2024-06-07,Oral Medicine,Completed,28.0
+R00139,P00680,2025-07-06,Oral Medicine,Completed,17.0
+R00140,P00683,2024-12-16,ENT / Head & Neck Surgery,Pending,
+R00141,P00687,2024-05-15,ENT / Head & Neck Surgery,Completed,21.0
+R00142,P00688,2025-06-19,Medical Oncology,Completed,26.0
+R00143,P00690,2023-10-16,Oral Medicine,No-show,
+R00144,P00691,2026-03-25,Oral Surgery,Cancelled,
+R00145,P00696,2023-08-21,Oral Surgery,Cancelled,
+R00146,P00698,2024-12-10,ENT / Head & Neck Surgery,No-show,
+R00147,P00700,2023-05-08,ENT / Head & Neck Surgery,Cancelled,
+R00148,P00711,2026-03-09,Oral Medicine,Completed,23.0
+R00149,P00714,2026-03-31,Oral Surgery,Completed,3.0
+R00150,P00715,2026-04-09,Oral Surgery,Completed,18.0
+R00151,P00716,2025-10-24,Oral Medicine,Pending,
+R00152,P00723,2023-12-29,Oral Surgery,Pending,
+R00153,P00728,2023-07-03,Oral Surgery,Completed,19.0
+R00154,P00729,2025-01-04,Radiation Oncology,Completed,12.0
+R00155,P00730,2025-04-08,ENT / Head & Neck Surgery,Pending,
+R00156,P00731,2023-10-12,Oral Surgery,Completed,25.0
+R00157,P00732,2024-09-28,Oral Surgery,Pending,
+R00158,P00733,2025-08-10,ENT / Head & Neck Surgery,No-show,
+R00159,P00746,2023-09-28,Oral Surgery,No-show,
+R00160,P00747,2025-06-23,ENT / Head & Neck Surgery,Completed,11.0
+R00161,P00750,2025-09-26,Oral Medicine,Completed,13.0
+R00162,P00752,2023-11-11,Oral Medicine,Completed,29.0
+R00163,P00758,2026-02-24,Oral Surgery,Completed,20.0
+R00164,P00761,2024-10-21,Oral Medicine,Pending,
+R00165,P00764,2024-11-22,Oral Medicine,No-show,
+R00166,P00776,2025-01-29,Oral Surgery,Completed,19.0
+R00167,P00778,2025-07-16,Oral Surgery,Completed,23.0
+R00168,P00782,2024-08-14,ENT / Head & Neck Surgery,Completed,34.0
+R00169,P00785,2025-02-10,Oral Surgery,Cancelled,
+R00170,P00790,2023-10-31,ENT / Head & Neck Surgery,Completed,17.0
+R00171,P00791,2025-11-12,Oral Surgery,Completed,30.0
+R00172,P00799,2024-04-09,Medical Oncology,No-show,
+R00173,P00801,2024-04-03,Oral Medicine,Completed,26.0
+R00174,P00802,2025-10-09,Oral Surgery,Pending,
+R00175,P00804,2025-11-20,Medical Oncology,No-show,
+R00176,P00819,2025-02-02,Oral Surgery,Completed,1.0
+R00177,P00823,2023-10-07,Oral Medicine,Completed,18.0
+R00178,P00828,2025-11-23,Oral Surgery,Completed,28.0
+R00179,P00837,2025-06-06,Oral Surgery,Completed,23.0
+R00180,P00843,2024-07-20,Radiation Oncology,Completed,20.0
+R00181,P00852,2025-05-26,Oral Surgery,Completed,31.0
+R00182,P00854,2024-12-02,ENT / Head & Neck Surgery,No-show,
+R00183,P00857,2024-05-02,Oral Surgery,Completed,48.0
+R00184,P00860,2024-05-29,Medical Oncology,Completed,22.0
+R00185,P00862,2024-02-18,Oral Surgery,No-show,
+R00186,P00864,2023-11-07,Medical Oncology,Completed,18.0
+R00187,P00870,2024-11-03,Oral Medicine,Completed,35.0
+R00188,P00876,2023-09-11,Oral Surgery,Completed,33.0
+R00189,P00881,2025-05-21,Oral Surgery,Pending,
+R00190,P00884,2025-06-10,Oral Surgery,Completed,1.0
+R00191,P00887,2023-07-30,Oral Surgery,Completed,41.0
+R00192,P00889,2024-10-17,Oral Surgery,Completed,24.0
+R00193,P00894,2025-08-08,Oral Medicine,Completed,12.0
+R00194,P00907,2026-01-08,Oral Surgery,Completed,30.0
+R00195,P00910,2023-09-03,Oral Medicine,No-show,
+R00196,P00928,2025-05-09,ENT / Head & Neck Surgery,No-show,
+R00197,P00941,2023-10-08,ENT / Head & Neck Surgery,Cancelled,
+R00198,P00949,2025-09-07,Radiation Oncology,Completed,22.0
+R00199,P00951,2023-06-19,Oral Medicine,Cancelled,
+R00200,P00958,2024-04-23,Radiation Oncology,Cancelled,
+R00201,P00963,2025-05-26,Oral Surgery,Completed,33.0
+R00202,P00965,2025-10-14,ENT / Head & Neck Surgery,Completed,25.0
+R00203,P00968,2024-08-31,Oral Surgery,Pending,
+R00204,P00976,2025-07-10,Oral Surgery,Completed,9.0
+R00205,P00982,2024-12-26,Medical Oncology,Completed,26.0
+R00206,P00986,2024-06-26,ENT / Head & Neck Surgery,Completed,32.0
+R00207,P00989,2025-03-30,Oral Surgery,Completed,44.0
+R00208,P00992,2025-04-17,Oral Surgery,Completed,22.0
+R00209,P01004,2025-11-13,Oral Surgery,No-show,
+R00210,P01008,2026-01-14,Oral Surgery,Pending,
+R00211,P01012,2024-04-14,Radiation Oncology,No-show,
+R00212,P01015,2023-10-05,Oral Surgery,Completed,10.0
+R00213,P01023,2025-12-15,Radiation Oncology,Completed,17.0
+R00214,P01026,2025-02-13,Oral Medicine,Completed,22.0
+R00215,P01027,2023-10-16,Oral Surgery,Completed,21.0
+R00216,P01029,2026-03-26,Oral Medicine,Completed,35.0
+R00217,P01042,2023-12-09,Radiation Oncology,Pending,
+R00218,P01044,2024-08-22,Oral Medicine,No-show,
+R00219,P01045,2023-10-24,Medical Oncology,No-show,
+R00220,P01047,2025-03-19,Oral Medicine,Completed,22.0
+R00221,P01048,2024-12-07,ENT / Head & Neck Surgery,Pending,
+R00222,P01049,2025-05-13,Oral Surgery,Pending,
+R00223,P01062,2025-12-28,ENT / Head & Neck Surgery,No-show,
+R00224,P01069,2025-07-12,ENT / Head & Neck Surgery,Pending,
+R00225,P01076,2025-07-20,Oral Medicine,Completed,15.0
+R00226,P01081,2024-10-29,ENT / Head & Neck Surgery,Completed,27.0
+R00227,P01084,2023-06-14,Oral Surgery,Completed,37.0
+R00228,P01088,2024-03-30,Radiation Oncology,Completed,18.0
+R00229,P01090,2024-09-15,Oral Surgery,Completed,17.0
+R00230,P01093,2024-07-19,Oral Surgery,Completed,34.0
+R00231,P01094,2024-10-25,Oral Surgery,Completed,26.0
+R00232,P01105,2024-12-12,Oral Surgery,Completed,29.0
+R00233,P01116,2026-02-14,ENT / Head & Neck Surgery,No-show,
+R00234,P01126,2025-03-28,Medical Oncology,Pending,
+R00235,P01127,2024-04-30,ENT / Head & Neck Surgery,Pending,
+R00236,P01132,2024-10-19,Medical Oncology,Completed,33.0
+R00237,P01134,2026-03-20,Oral Surgery,Pending,
+R00238,P01138,2024-06-09,Oral Medicine,Completed,51.0
+R00239,P01141,2025-11-25,Medical Oncology,Completed,2.0
+R00240,P01154,2025-11-04,Oral Surgery,Completed,8.0
+R00241,P01156,2025-01-02,ENT / Head & Neck Surgery,Completed,23.0
+R00242,P01161,2024-11-25,Oral Surgery,Completed,19.0
+R00243,P01162,2024-05-12,ENT / Head & Neck Surgery,Completed,30.0
+R00244,P01164,2026-03-29,ENT / Head & Neck Surgery,Pending,
+R00245,P01167,2024-11-30,ENT / Head & Neck Surgery,Pending,
+R00246,P01170,2023-11-28,Oral Medicine,Completed,16.0
+R00247,P01174,2025-09-01,Radiation Oncology,Completed,31.0
+R00248,P01176,2024-05-11,Oral Surgery,Completed,50.0
+R00249,P01179,2026-03-02,Oral Surgery,No-show,
+R00250,P01180,2024-10-02,Oral Surgery,Pending,
+R00251,P01181,2024-11-13,Oral Surgery,Pending,
+R00252,P01182,2023-12-29,Oral Surgery,Completed,8.0
+R00253,P01189,2025-03-27,Oral Medicine,No-show,
+R00254,P01193,2025-11-21,Oral Surgery,Pending,
+R00255,P01194,2023-05-29,Oral Medicine,Pending,
+R00256,P01205,2023-08-20,Oral Medicine,Completed,14.0
+R00257,P01212,2025-09-13,Radiation Oncology,Pending,
+R00258,P01222,2026-01-21,ENT / Head & Neck Surgery,Completed,11.0
+R00259,P01226,2024-01-09,Oral Medicine,No-show,
+R00260,P01227,2023-10-29,Oral Medicine,Completed,42.0
+R00261,P01236,2026-01-15,Oral Medicine,Completed,24.0
+R00262,P01240,2025-10-03,ENT / Head & Neck Surgery,Completed,31.0
+R00263,P01246,2023-09-11,ENT / Head & Neck Surgery,Pending,
+R00264,P01247,2026-01-29,Oral Medicine,Pending,
+R00265,P01248,2025-05-04,Oral Surgery,Cancelled,
+R00266,P01258,2023-05-29,ENT / Head & Neck Surgery,Pending,
+R00267,P01268,2025-11-28,ENT / Head & Neck Surgery,Completed,12.0
+R00268,P01277,2023-08-24,Oral Surgery,Completed,32.0
+R00269,P01278,2025-09-26,ENT / Head & Neck Surgery,Completed,29.0
+R00270,P01282,2024-05-20,Medical Oncology,Completed,41.0
+R00271,P01287,2025-09-14,Medical Oncology,Completed,26.0
+R00272,P01291,2024-04-30,Oral Surgery,Pending,
+R00273,P01295,2024-11-16,Oral Medicine,Completed,31.0
+R00274,P01302,2024-02-21,ENT / Head & Neck Surgery,Completed,28.0
+R00275,P01303,2024-05-14,Oral Surgery,Completed,9.0
+R00276,P01304,2024-05-08,ENT / Head & Neck Surgery,Completed,28.0
+R00277,P01305,2024-03-30,ENT / Head & Neck Surgery,Completed,21.0
+R00278,P01314,2025-06-03,Oral Surgery,Completed,50.0
+R00279,P01319,2024-04-13,Oral Surgery,Completed,28.0
+R00280,P01338,2025-08-11,Oral Surgery,No-show,
+R00281,P01340,2023-09-04,Oral Medicine,Completed,13.0
+R00282,P01350,2025-09-25,Oral Surgery,Pending,
+R00283,P01361,2026-01-23,Oral Medicine,Pending,
+R00284,P01363,2023-06-16,ENT / Head & Neck Surgery,Completed,34.0
+R00285,P01367,2023-05-17,ENT / Head & Neck Surgery,Cancelled,
+R00286,P01372,2024-03-08,Medical Oncology,Completed,34.0
+R00287,P01378,2024-02-27,Medical Oncology,Completed,22.0
+R00288,P01389,2024-06-23,Oral Medicine,Cancelled,
+R00289,P01412,2023-11-04,ENT / Head & Neck Surgery,Completed,15.0
+R00290,P01418,2025-05-07,Oral Medicine,Pending,
+R00291,P01421,2025-01-24,Medical Oncology,Completed,15.0
+R00292,P01426,2025-12-20,ENT / Head & Neck Surgery,No-show,
+R00293,P01437,2025-01-18,ENT / Head & Neck Surgery,Pending,
+R00294,P01440,2025-06-21,Oral Surgery,Completed,22.0
+R00295,P01441,2025-08-05,Radiation Oncology,Pending,
+R00296,P01446,2025-09-30,Medical Oncology,Completed,25.0
+R00297,P01448,2024-02-13,Oral Surgery,Pending,
+R00298,P01455,2024-03-26,Oral Surgery,No-show,
+R00299,P01457,2025-06-26,Oral Surgery,Completed,25.0
+R00300,P01459,2024-03-04,Oral Surgery,No-show,
+R00301,P01460,2025-05-12,Oral Medicine,Completed,10.0
+R00302,P01472,2023-06-27,Oral Surgery,No-show,
+R00303,P01475,2023-08-09,Oral Surgery,Cancelled,
+R00304,P01478,2024-12-16,Oral Medicine,No-show,
+R00305,P01489,2026-03-26,Oral Surgery,Pending,
+R00306,P01494,2025-09-10,Oral Surgery,Pending,
+R00307,P01498,2025-03-23,Oral Surgery,Completed,12.0
+R00308,P01500,2024-06-01,ENT / Head & Neck Surgery,Pending,
+R00309,P01508,2026-02-17,ENT / Head & Neck Surgery,Pending,
+R00310,P01532,2023-08-20,Oral Surgery,Pending,
+R00311,P01534,2024-08-29,Radiation Oncology,Completed,17.0
+R00312,P01551,2025-11-26,ENT / Head & Neck Surgery,Completed,34.0
+R00313,P01560,2025-04-09,ENT / Head & Neck Surgery,Completed,23.0
+R00314,P01572,2024-04-13,Oral Medicine,Completed,19.0
+R00315,P01573,2023-06-30,Oral Surgery,Cancelled,
+R00316,P01577,2023-09-22,ENT / Head & Neck Surgery,Completed,8.0
+R00317,P01578,2025-12-27,ENT / Head & Neck Surgery,Pending,
+R00318,P01581,2024-05-09,ENT / Head & Neck Surgery,Pending,
+R00319,P01587,2023-06-08,Oral Surgery,Completed,18.0
+R00320,P01588,2023-07-19,Medical Oncology,Cancelled,
+R00321,P01593,2024-09-23,ENT / Head & Neck Surgery,No-show,
+R00322,P01594,2025-02-20,ENT / Head & Neck Surgery,Completed,18.0
+R00323,P01597,2023-08-21,Oral Medicine,Completed,20.0
+R00324,P01598,2023-08-15,Oral Medicine,No-show,
+R00325,P01618,2024-10-21,Medical Oncology,Pending,
+R00326,P01619,2024-05-05,ENT / Head & Neck Surgery,Completed,16.0
+R00327,P01621,2024-02-28,Radiation Oncology,Pending,
+R00328,P01626,2025-06-29,Oral Medicine,Completed,38.0
+R00329,P01635,2026-03-26,ENT / Head & Neck Surgery,Pending,
+R00330,P01638,2024-12-01,ENT / Head & Neck Surgery,No-show,
+R00331,P01641,2024-05-09,Oral Medicine,Completed,15.0
+R00332,P01644,2023-06-04,Oral Medicine,Completed,46.0
+R00333,P01646,2024-11-18,Oral Surgery,Completed,20.0
+R00334,P01649,2025-09-15,ENT / Head & Neck Surgery,Pending,
+R00335,P01652,2024-02-08,Oral Surgery,No-show,
+R00336,P01656,2023-11-03,Radiation Oncology,Completed,24.0
+R00337,P01658,2025-07-07,Oral Medicine,Completed,5.0
+R00338,P01660,2023-07-05,Oral Surgery,Completed,26.0
+R00339,P01663,2025-05-04,Oral Surgery,Completed,24.0
+R00340,P01665,2025-06-19,Medical Oncology,Pending,
+R00341,P01667,2023-07-13,Oral Surgery,Completed,33.0
+R00342,P01675,2025-03-30,Radiation Oncology,Pending,
+R00343,P01680,2024-06-21,Radiation Oncology,Completed,24.0
+R00344,P01681,2023-06-22,ENT / Head & Neck Surgery,Completed,4.0
+R00345,P01683,2026-02-23,Oral Medicine,Cancelled,
+R00346,P01684,2024-02-14,ENT / Head & Neck Surgery,Pending,
+R00347,P01685,2024-09-21,Oral Medicine,Completed,29.0
+R00348,P01688,2024-05-02,Oral Medicine,No-show,
+R00349,P01694,2026-02-15,Oral Surgery,Cancelled,
+R00350,P01712,2025-04-27,Oral Surgery,Completed,9.0
+R00351,P01713,2023-10-10,Oral Surgery,Completed,35.0
+R00352,P01717,2024-11-06,ENT / Head & Neck Surgery,Pending,
+R00353,P01721,2024-06-21,Medical Oncology,Completed,17.0
+R00354,P01723,2024-05-21,Oral Medicine,Pending,
+R00355,P01734,2024-03-03,Oral Medicine,No-show,
+R00356,P01742,2023-08-31,Oral Surgery,No-show,
+R00357,P01745,2024-11-05,Oral Medicine,No-show,
+R00358,P01755,2025-03-22,Radiation Oncology,Completed,33.0
+R00359,P01756,2024-08-15,Oral Medicine,Completed,12.0
+R00360,P01764,2023-11-10,Oral Surgery,No-show,
+R00361,P01769,2024-08-19,Oral Surgery,No-show,
+R00362,P01773,2023-10-17,Medical Oncology,Pending,
+R00363,P01775,2024-12-23,Oral Surgery,Pending,
+R00364,P01778,2026-02-25,Oral Surgery,Completed,27.0
+R00365,P01780,2024-01-01,ENT / Head & Neck Surgery,Pending,
+R00366,P01788,2023-06-03,Oral Surgery,Completed,13.0
+R00367,P01791,2024-08-06,Medical Oncology,Completed,34.0
+R00368,P01796,2025-07-26,Medical Oncology,No-show,
+R00369,P01808,2026-03-27,Oral Surgery,Pending,
+R00370,P01834,2025-02-19,Oral Medicine,Completed,39.0
+R00371,P01844,2024-01-18,Oral Medicine,Pending,
+R00372,P01850,2024-06-28,Radiation Oncology,No-show,
+R00373,P01851,2026-03-23,Radiation Oncology,Completed,42.0
+R00374,P01854,2025-04-03,Oral Surgery,Cancelled,
+R00375,P01855,2023-09-18,Oral Surgery,Pending,
+R00376,P01856,2025-08-04,Oral Medicine,Completed,30.0
+R00377,P01863,2025-11-30,Oral Medicine,No-show,
+R00378,P01876,2024-05-15,Oral Surgery,Completed,10.0
+R00379,P01882,2024-04-09,Medical Oncology,Pending,
+R00380,P01884,2025-08-28,Medical Oncology,Cancelled,
+R00381,P01889,2023-08-13,Oral Medicine,Pending,
+R00382,P01895,2024-12-03,Medical Oncology,Completed,37.0
+R00383,P01898,2023-07-09,ENT / Head & Neck Surgery,Completed,10.0
+R00384,P01910,2025-03-06,Oral Surgery,Completed,13.0
+R00385,P01916,2023-10-20,Oral Surgery,No-show,
+R00386,P01920,2025-07-13,Oral Surgery,Completed,35.0
+R00387,P01921,2023-09-23,Oral Surgery,Pending,
+R00388,P01925,2025-02-03,Oral Surgery,Completed,31.0
+R00389,P01926,2025-03-28,Oral Surgery,No-show,
+R00390,P01927,2024-03-14,Oral Medicine,Pending,
+R00391,P01943,2024-03-14,Oral Medicine,Pending,
+R00392,P01948,2024-11-15,Oral Surgery,Completed,33.0
+R00393,P01950,2025-11-30,Oral Surgery,Completed,29.0
+R00394,P01951,2025-02-27,Medical Oncology,Pending,
+R00395,P01961,2024-07-09,Oral Surgery,Cancelled,
+R00396,P01969,2025-03-28,Oral Medicine,Completed,24.0
+R00397,P01973,2025-08-05,Oral Surgery,Pending,
+R00398,P01982,2023-11-13,Oral Surgery,Completed,29.0
+R00399,P01986,2024-04-11,Oral Surgery,Pending,
+R00400,P01987,2026-01-10,Oral Surgery,Cancelled,
+R00401,P01988,2023-11-25,Medical Oncology,Completed,20.0
+R00402,P01991,2023-09-28,Oral Surgery,Completed,12.0
+R00403,P01996,2025-05-01,Oral Medicine,Pending,
+R00404,P01997,2024-03-06,Oral Surgery,Completed,11.0
+R00405,P02002,2023-09-19,ENT / Head & Neck Surgery,Pending,
+R00406,P02009,2025-11-11,Oral Surgery,No-show,
+R00407,P02027,2023-11-29,Oral Surgery,No-show,
+R00408,P02030,2023-08-22,Oral Surgery,Pending,
+R00409,P02035,2023-05-29,ENT / Head & Neck Surgery,Completed,28.0
+R00410,P02043,2025-06-01,ENT / Head & Neck Surgery,Completed,29.0
+R00411,P02044,2024-02-25,Oral Surgery,Completed,26.0
+R00412,P02047,2025-10-10,ENT / Head & Neck Surgery,Completed,13.0
+R00413,P02051,2025-04-23,Oral Surgery,Completed,11.0
+R00414,P02053,2025-05-13,Medical Oncology,Pending,
+R00415,P02057,2023-10-24,Radiation Oncology,No-show,
+R00416,P02058,2024-03-28,Oral Surgery,Completed,19.0
+R00417,P02061,2024-05-10,Oral Surgery,No-show,
+R00418,P02065,2025-12-08,Oral Surgery,Completed,23.0
+R00419,P02072,2025-10-27,Oral Surgery,Completed,36.0
+R00420,P02081,2023-04-28,Oral Medicine,Pending,
+R00421,P02083,2024-04-08,Oral Surgery,Completed,23.0
+R00422,P02085,2023-11-14,Oral Surgery,No-show,
+R00423,P02087,2023-07-12,ENT / Head & Neck Surgery,Completed,17.0
+R00424,P02091,2024-05-01,Oral Surgery,Completed,32.0
+R00425,P02096,2023-11-17,Medical Oncology,No-show,
+R00426,P02098,2025-06-29,Oral Surgery,Completed,32.0
+R00427,P02102,2024-04-30,ENT / Head & Neck Surgery,No-show,
+R00428,P02107,2024-02-10,Oral Medicine,No-show,
+R00429,P02109,2024-08-29,Oral Surgery,Pending,
+R00430,P02111,2023-11-08,Oral Medicine,Completed,28.0
+R00431,P02113,2026-04-12,Radiation Oncology,Cancelled,
+R00432,P02121,2025-09-16,Oral Surgery,No-show,
+R00433,P02132,2024-09-17,Oral Medicine,Completed,32.0
+R00434,P02134,2025-02-04,ENT / Head & Neck Surgery,Cancelled,
+R00435,P02135,2024-08-29,ENT / Head & Neck Surgery,Cancelled,
+R00436,P02140,2023-05-24,ENT / Head & Neck Surgery,Completed,8.0
+R00437,P02141,2025-09-21,Oral Medicine,Completed,31.0
+R00438,P02144,2025-09-13,Medical Oncology,Completed,31.0
+R00439,P02146,2023-05-24,Oral Surgery,No-show,
+R00440,P02148,2024-04-16,Radiation Oncology,Completed,13.0
+R00441,P02153,2023-07-30,ENT / Head & Neck Surgery,Completed,24.0
+R00442,P02154,2024-08-06,ENT / Head & Neck Surgery,Completed,19.0
+R00443,P02156,2023-09-13,Oral Surgery,Completed,32.0
+R00444,P02163,2024-10-09,Oral Surgery,Completed,15.0
+R00445,P02170,2025-03-26,ENT / Head & Neck Surgery,Completed,20.0
+R00446,P02172,2024-08-14,Oral Surgery,Completed,37.0
+R00447,P02174,2024-06-13,Medical Oncology,Completed,12.0
+R00448,P02175,2024-06-22,Oral Surgery,Cancelled,
+R00449,P02178,2024-10-05,ENT / Head & Neck Surgery,Completed,13.0
+R00450,P02181,2023-10-18,ENT / Head & Neck Surgery,No-show,
+R00451,P02185,2025-11-18,ENT / Head & Neck Surgery,Completed,23.0
+R00452,P02207,2025-11-21,Oral Surgery,Pending,
+R00453,P02210,2025-06-17,ENT / Head & Neck Surgery,No-show,
+R00454,P02211,2023-08-24,Oral Surgery,Completed,17.0
+R00455,P02217,2025-01-21,Oral Surgery,Completed,34.0
+R00456,P02219,2024-03-09,Oral Surgery,Completed,6.0
+R00457,P02222,2024-09-03,Oral Medicine,No-show,
+R00458,P02229,2024-01-17,Oral Surgery,Completed,20.0
+R00459,P02231,2025-01-27,Oral Medicine,No-show,
+R00460,P02241,2023-10-24,Oral Medicine,Completed,24.0
+R00461,P02246,2025-03-28,Oral Surgery,Completed,28.0
+R00462,P02248,2025-08-26,Oral Surgery,Completed,27.0
+R00463,P02251,2026-04-04,Oral Surgery,Completed,22.0
+R00464,P02256,2025-01-23,Oral Surgery,Pending,
+R00465,P02257,2024-05-22,Radiation Oncology,Completed,29.0
+R00466,P02264,2025-08-23,Oral Surgery,Pending,
+R00467,P02270,2023-08-31,ENT / Head & Neck Surgery,Cancelled,
+R00468,P02277,2023-08-04,Oral Surgery,Cancelled,
+R00469,P02280,2024-11-03,Radiation Oncology,Pending,
+R00470,P02291,2023-11-08,Radiation Oncology,Pending,
+R00471,P02297,2025-01-05,Oral Surgery,No-show,
+R00472,P02299,2025-08-17,Oral Surgery,Completed,29.0
+R00473,P02300,2024-01-12,Medical Oncology,Pending,
+R00474,P02303,2024-07-21,Oral Surgery,Completed,12.0
+R00475,P02309,2024-12-18,Oral Medicine,No-show,
+R00476,P02318,2026-01-16,Oral Medicine,Completed,16.0
+R00477,P02322,2025-07-07,ENT / Head & Neck Surgery,Cancelled,
+R00478,P02323,2023-12-11,Oral Surgery,Completed,25.0
+R00479,P02327,2024-03-17,Oral Medicine,No-show,
+R00480,P02337,2024-12-07,Oral Surgery,Completed,31.0
+R00481,P02343,2024-01-20,Medical Oncology,Completed,2.0
+R00482,P02347,2024-03-12,ENT / Head & Neck Surgery,No-show,
+R00483,P02355,2024-07-31,Oral Surgery,No-show,
+R00484,P02357,2026-03-26,Oral Medicine,Cancelled,
+R00485,P02365,2024-11-14,ENT / Head & Neck Surgery,Completed,30.0
+R00486,P02372,2024-05-13,Oral Medicine,Pending,
+R00487,P02377,2025-12-31,Oral Surgery,Pending,
+R00488,P02378,2024-07-30,Oral Surgery,Completed,19.0
+R00489,P02379,2024-11-11,ENT / Head & Neck Surgery,Completed,31.0
+R00490,P02383,2023-07-12,Radiation Oncology,Pending,
+R00491,P02384,2026-04-04,Medical Oncology,Completed,17.0
+R00492,P02389,2026-03-30,Oral Medicine,Completed,22.0
+R00493,P02391,2024-01-02,ENT / Head & Neck Surgery,Completed,27.0
+R00494,P02395,2024-08-12,Oral Surgery,Completed,12.0
+R00495,P02411,2024-03-31,ENT / Head & Neck Surgery,Completed,18.0
+R00496,P02413,2023-09-18,Oral Surgery,Completed,11.0
+R00497,P02416,2025-08-23,ENT / Head & Neck Surgery,Pending,
+R00498,P02417,2025-05-07,Oral Medicine,Pending,
+R00499,P02418,2024-03-06,Radiation Oncology,Completed,30.0
+R00500,P02422,2024-06-30,Oral Surgery,Completed,32.0
+R00501,P02425,2024-10-25,ENT / Head & Neck Surgery,Completed,16.0
+R00502,P02427,2026-04-16,Oral Medicine,Completed,18.0
+R00503,P02433,2025-09-22,ENT / Head & Neck Surgery,Completed,1.0
+R00504,P02437,2024-07-03,Oral Surgery,Completed,1.0
+R00505,P02439,2025-09-19,Radiation Oncology,Completed,6.0
+R00506,P02440,2023-12-01,ENT / Head & Neck Surgery,Pending,
+R00507,P02442,2024-08-18,Oral Surgery,No-show,
+R00508,P02447,2023-10-04,Oral Surgery,Completed,16.0
+R00509,P02454,2023-12-04,Oral Surgery,Completed,29.0
+R00510,P02458,2025-02-05,ENT / Head & Neck Surgery,Pending,
+R00511,P02461,2024-06-05,ENT / Head & Neck Surgery,Pending,
+R00512,P02464,2025-03-30,Oral Surgery,No-show,
+R00513,P02465,2024-03-14,Oral Surgery,Pending,
+R00514,P02478,2025-09-10,Oral Surgery,Completed,32.0
+R00515,P02493,2025-11-23,Medical Oncology,Completed,18.0
+R00516,P02494,2023-06-12,Oral Surgery,Cancelled,
+R00517,P02495,2024-10-18,Oral Medicine,Completed,14.0
+R00518,P02498,2025-12-06,Oral Medicine,No-show,
+R00519,P02500,2025-09-19,Medical Oncology,No-show,
+R00520,P02503,2025-12-08,ENT / Head & Neck Surgery,Cancelled,
+R00521,P02520,2025-11-20,ENT / Head & Neck Surgery,Completed,22.0
+R00522,P02523,2024-06-04,ENT / Head & Neck Surgery,Completed,32.0
+R00523,P02535,2024-10-21,ENT / Head & Neck Surgery,Completed,26.0
+R00524,P02541,2025-11-16,Oral Surgery,Completed,16.0
+R00525,P02542,2023-08-16,Oral Medicine,Completed,41.0
+R00526,P02543,2025-05-04,Radiation Oncology,Completed,2.0
+R00527,P02555,2025-09-28,Oral Medicine,Completed,27.0
+R00528,P02562,2025-03-19,Medical Oncology,Completed,10.0
+R00529,P02567,2025-05-07,Medical Oncology,No-show,
+R00530,P02580,2024-03-16,Oral Surgery,Pending,
+R00531,P02581,2024-09-06,Oral Medicine,Pending,
+R00532,P02585,2026-01-26,Medical Oncology,Cancelled,
+R00533,P02594,2025-10-03,Radiation Oncology,Pending,
+R00534,P02597,2024-07-22,Oral Surgery,Completed,14.0
+R00535,P02598,2026-02-18,ENT / Head & Neck Surgery,Completed,39.0
+R00536,P02612,2024-10-29,Oral Surgery,Completed,23.0
+R00537,P02613,2025-02-15,Radiation Oncology,Completed,16.0
+R00538,P02619,2025-11-09,Oral Medicine,Completed,17.0
+R00539,P02623,2024-12-08,Oral Surgery,Completed,31.0
+R00540,P02624,2024-10-13,Oral Medicine,No-show,
+R00541,P02627,2025-10-06,ENT / Head & Neck Surgery,Completed,32.0
+R00542,P02630,2023-07-24,Oral Surgery,Pending,
+R00543,P02634,2024-07-19,Oral Medicine,Pending,
+R00544,P02640,2025-01-14,Oral Surgery,Cancelled,
+R00545,P02643,2023-05-16,Oral Surgery,Completed,16.0
+R00546,P02644,2023-10-16,Oral Medicine,Completed,48.0
+R00547,P02645,2025-01-13,Oral Surgery,Completed,1.0
+R00548,P02649,2023-07-27,Oral Surgery,Completed,12.0
+R00549,P02660,2025-11-21,ENT / Head & Neck Surgery,Completed,11.0
+R00550,P02662,2024-08-10,Oral Medicine,Completed,28.0
+R00551,P02664,2025-01-27,Oral Medicine,Completed,17.0
+R00552,P02666,2023-05-15,Oral Medicine,Completed,18.0
+R00553,P02667,2024-03-03,Medical Oncology,Pending,
+R00554,P02672,2025-11-28,Oral Medicine,Completed,26.0
+R00555,P02678,2025-04-09,Oral Medicine,No-show,
+R00556,P02679,2024-11-18,ENT / Head & Neck Surgery,Completed,43.0
+R00557,P02681,2025-03-09,ENT / Head & Neck Surgery,No-show,
+R00558,P02687,2026-03-01,ENT / Head & Neck Surgery,Completed,9.0
+R00559,P02700,2024-08-29,ENT / Head & Neck Surgery,Cancelled,
+R00560,P02703,2023-07-01,Radiation Oncology,No-show,
+R00561,P02704,2025-04-19,Radiation Oncology,Completed,37.0
+R00562,P02705,2023-07-21,ENT / Head & Neck Surgery,Pending,
+R00563,P02711,2025-04-21,Oral Surgery,Pending,
+R00564,P02717,2023-12-01,ENT / Head & Neck Surgery,Completed,30.0
+R00565,P02718,2024-02-03,Oral Medicine,Pending,
+R00566,P02734,2024-04-02,Oral Surgery,Completed,29.0
+R00567,P02737,2025-05-05,Oral Surgery,Completed,30.0
+R00568,P02738,2025-06-05,Oral Medicine,Pending,
+R00569,P02741,2025-10-15,Oral Medicine,Completed,19.0
+R00570,P02746,2024-08-06,ENT / Head & Neck Surgery,No-show,
+R00571,P02747,2025-05-22,ENT / Head & Neck Surgery,Completed,31.0
+R00572,P02751,2024-07-04,Oral Surgery,Completed,29.0
+R00573,P02757,2023-06-11,Oral Surgery,Completed,37.0
+R00574,P02761,2025-09-14,Oral Surgery,No-show,
+R00575,P02764,2025-02-01,Medical Oncology,Pending,
+R00576,P02768,2023-06-28,Medical Oncology,Completed,1.0
+R00577,P02775,2024-05-10,ENT / Head & Neck Surgery,Completed,36.0
+R00578,P02777,2023-07-14,Oral Surgery,Completed,31.0
+R00579,P02782,2025-03-16,Oral Surgery,Pending,
+R00580,P02783,2024-02-27,Oral Surgery,Pending,
+R00581,P02784,2023-08-12,Oral Surgery,Completed,54.0
+R00582,P02788,2024-07-27,Oral Medicine,Cancelled,
+R00583,P02789,2024-05-26,Oral Medicine,Completed,12.0
+R00584,P02794,2025-03-03,Oral Medicine,No-show,
+R00585,P02801,2024-07-09,Oral Surgery,Completed,28.0
+R00586,P02804,2025-12-18,ENT / Head & Neck Surgery,Completed,19.0
+R00587,P02805,2023-07-02,ENT / Head & Neck Surgery,Pending,
+R00588,P02806,2025-07-22,Radiation Oncology,No-show,
+R00589,P02807,2025-12-20,Oral Surgery,Completed,28.0
+R00590,P02810,2023-11-22,Oral Surgery,Pending,
+R00591,P02812,2023-11-22,Oral Medicine,Pending,
+R00592,P02820,2024-12-27,Oral Surgery,Completed,20.0
+R00593,P02832,2025-04-30,Oral Medicine,Completed,23.0
+R00594,P02842,2024-08-24,Oral Surgery,Pending,
+R00595,P02857,2024-07-25,Oral Medicine,Completed,37.0
+R00596,P02862,2025-04-14,Oral Surgery,Completed,24.0
+R00597,P02865,2023-11-06,Oral Surgery,Completed,38.0
+R00598,P02868,2025-10-16,Medical Oncology,Completed,29.0
+R00599,P02871,2024-03-20,ENT / Head & Neck Surgery,Pending,
+R00600,P02872,2024-05-20,ENT / Head & Neck Surgery,Completed,21.0
+R00601,P02876,2026-03-18,Oral Surgery,Completed,16.0
+R00602,P02881,2026-03-22,ENT / Head & Neck Surgery,Completed,10.0
+R00603,P02889,2023-12-02,Medical Oncology,Completed,14.0
+R00604,P02890,2023-10-10,Oral Surgery,Completed,27.0
+R00605,P02891,2024-07-26,Oral Surgery,Completed,15.0
+R00606,P02893,2023-11-03,Oral Surgery,Completed,32.0
+R00607,P02894,2026-01-08,Radiation Oncology,Cancelled,
+R00608,P02896,2024-02-22,Oral Surgery,No-show,
+R00609,P02899,2025-07-12,Oral Medicine,No-show,
+R00610,P02901,2025-08-31,Oral Surgery,Completed,40.0
+R00611,P02905,2024-06-16,ENT / Head & Neck Surgery,Cancelled,
+R00612,P02908,2025-08-13,Oral Surgery,Pending,
+R00613,P02910,2026-03-13,ENT / Head & Neck Surgery,Cancelled,
+R00614,P02915,2026-02-09,Oral Surgery,Completed,40.0
+R00615,P02917,2024-12-23,Oral Medicine,Completed,24.0
+R00616,P02921,2024-08-10,ENT / Head & Neck Surgery,Pending,
+R00617,P02940,2025-01-07,ENT / Head & Neck Surgery,Pending,
+R00618,P02943,2025-04-09,ENT / Head & Neck Surgery,Completed,36.0
+R00619,P02946,2026-03-13,Oral Surgery,No-show,
+R00620,P02953,2025-06-17,ENT / Head & Neck Surgery,Completed,37.0
+R00621,P02956,2024-08-13,Oral Surgery,Cancelled,
+R00622,P02970,2023-04-30,Radiation Oncology,No-show,
+R00623,P02972,2025-06-27,Oral Medicine,Completed,12.0
+R00624,P02979,2026-04-07,ENT / Head & Neck Surgery,Pending,
+R00625,P02982,2025-09-05,Oral Surgery,Pending,
+R00626,P02989,2024-05-25,Oral Surgery,Completed,39.0
+R00627,P02992,2025-07-11,Radiation Oncology,Cancelled,
+R00628,P02998,2024-07-18,Oral Surgery,Completed,35.0
+R00629,P02999,2024-08-01,ENT / Head & Neck Surgery,Pending,
+R00630,P03002,2024-03-06,Oral Medicine,Pending,
+R00631,P03003,2026-02-25,Radiation Oncology,Completed,27.0
+R00632,P03004,2025-11-02,ENT / Head & Neck Surgery,Completed,22.0
+R00633,P03009,2024-11-16,Oral Medicine,Completed,30.0
+R00634,P03016,2024-01-16,Oral Surgery,Completed,19.0
+R00635,P03018,2025-11-19,ENT / Head & Neck Surgery,Completed,23.0
+R00636,P03025,2023-12-05,ENT / Head & Neck Surgery,Cancelled,
+R00637,P03029,2025-11-03,Oral Surgery,Completed,20.0
+R00638,P03032,2025-12-01,ENT / Head & Neck Surgery,Pending,
+R00639,P03043,2024-10-28,Oral Surgery,Completed,21.0
+R00640,P03058,2026-01-16,Oral Surgery,Completed,20.0
+R00641,P03060,2025-05-10,ENT / Head & Neck Surgery,Completed,29.0
+R00642,P03066,2024-09-14,Medical Oncology,Completed,37.0
+R00643,P03069,2023-08-26,Oral Surgery,Pending,
+R00644,P03075,2024-12-05,Oral Medicine,Completed,7.0
+R00645,P03077,2024-12-20,ENT / Head & Neck Surgery,Completed,19.0
+R00646,P03080,2026-02-28,Oral Surgery,Completed,28.0
+R00647,P03082,2024-09-09,Oral Surgery,Completed,1.0
+R00648,P03084,2024-04-07,ENT / Head & Neck Surgery,Completed,32.0
+R00649,P03085,2025-03-11,ENT / Head & Neck Surgery,Pending,
+R00650,P03086,2023-10-06,Oral Surgery,Pending,
+R00651,P03089,2025-06-18,Oral Medicine,Completed,19.0
+R00652,P03090,2025-07-24,Oral Surgery,Completed,30.0
+R00653,P03101,2023-11-06,Oral Surgery,No-show,
+R00654,P03102,2024-06-28,ENT / Head & Neck Surgery,Pending,
+R00655,P03112,2025-02-08,ENT / Head & Neck Surgery,Completed,28.0
+R00656,P03132,2023-11-22,Oral Medicine,Pending,
+R00657,P03134,2024-09-04,Oral Surgery,Completed,13.0
+R00658,P03139,2025-10-20,Oral Surgery,Completed,38.0
+R00659,P03146,2025-04-13,Oral Medicine,Pending,
+R00660,P03149,2023-08-21,Oral Medicine,Pending,
+R00661,P03152,2024-05-28,Oral Surgery,Completed,27.0
+R00662,P03172,2025-05-07,Oral Medicine,Completed,10.0
+R00663,P03176,2024-04-10,Oral Medicine,Pending,
+R00664,P03182,2023-11-30,Oral Surgery,Pending,
+R00665,P03183,2024-11-28,Oral Surgery,Completed,32.0
+R00666,P03185,2024-07-18,Medical Oncology,Completed,29.0
+R00667,P03188,2023-12-18,ENT / Head & Neck Surgery,No-show,
+R00668,P03189,2025-06-13,ENT / Head & Neck Surgery,Pending,
+R00669,P03190,2024-12-28,Oral Surgery,Completed,30.0
+R00670,P03192,2025-09-10,Medical Oncology,Pending,
+R00671,P03193,2024-12-02,ENT / Head & Neck Surgery,Pending,
+R00672,P03198,2024-03-27,Oral Medicine,Pending,
+R00673,P03203,2023-05-22,Oral Surgery,Pending,
+R00674,P03204,2024-06-15,Oral Medicine,Completed,16.0
+R00675,P03207,2025-12-10,Oral Medicine,Pending,
+R00676,P03214,2024-08-19,Medical Oncology,Completed,40.0
+R00677,P03215,2023-06-29,ENT / Head & Neck Surgery,Cancelled,
+R00678,P03218,2024-02-03,ENT / Head & Neck Surgery,Completed,31.0
+R00679,P03219,2025-01-19,Oral Surgery,Completed,14.0
+R00680,P03223,2023-11-29,Oral Medicine,Pending,
+R00681,P03234,2025-01-09,Oral Surgery,Pending,
+R00682,P03240,2024-11-22,ENT / Head & Neck Surgery,Completed,6.0
+R00683,P03242,2024-05-26,Radiation Oncology,Completed,13.0
+R00684,P03243,2023-09-22,Oral Surgery,Completed,16.0
+R00685,P03249,2024-03-12,ENT / Head & Neck Surgery,No-show,
+R00686,P03251,2023-10-11,Oral Surgery,No-show,
+R00687,P03255,2023-07-23,Oral Medicine,Completed,31.0
+R00688,P03257,2023-11-16,Oral Medicine,Completed,24.0
+R00689,P03259,2026-02-21,Oral Surgery,Cancelled,
+R00690,P03261,2025-06-16,Oral Surgery,Completed,9.0
+R00691,P03263,2023-07-04,ENT / Head & Neck Surgery,Pending,
+R00692,P03268,2023-09-06,Oral Surgery,Completed,22.0
+R00693,P03273,2023-10-10,ENT / Head & Neck Surgery,Completed,20.0
+R00694,P03280,2024-11-25,Oral Medicine,Pending,
+R00695,P03283,2023-12-19,Medical Oncology,No-show,
+R00696,P03284,2023-09-22,Radiation Oncology,Completed,24.0
+R00697,P03285,2023-05-19,ENT / Head & Neck Surgery,Completed,20.0
+R00698,P03288,2026-02-28,Oral Surgery,Completed,16.0
+R00699,P03292,2023-05-15,Oral Surgery,Completed,30.0
+R00700,P03306,2025-04-21,Radiation Oncology,Completed,26.0
+R00701,P03313,2025-12-19,ENT / Head & Neck Surgery,Completed,32.0
+R00702,P03321,2025-10-04,ENT / Head & Neck Surgery,Completed,29.0
+R00703,P03326,2025-07-01,Oral Surgery,Completed,8.0
+R00704,P03327,2025-02-17,Oral Medicine,No-show,
+R00705,P03331,2025-05-10,Radiation Oncology,No-show,
+R00706,P03340,2025-10-22,Oral Surgery,Pending,
+R00707,P03342,2024-12-11,Medical Oncology,No-show,
+R00708,P03343,2026-02-18,ENT / Head & Neck Surgery,Pending,
+R00709,P03353,2025-08-27,ENT / Head & Neck Surgery,Completed,24.0
+R00710,P03354,2025-11-23,Oral Surgery,Completed,14.0
+R00711,P03368,2026-02-23,Radiation Oncology,Completed,28.0
+R00712,P03370,2025-03-25,Medical Oncology,Completed,36.0
+R00713,P03371,2023-07-17,Oral Surgery,Completed,36.0
+R00714,P03378,2026-03-20,Radiation Oncology,Completed,23.0
+R00715,P03391,2025-09-30,Radiation Oncology,Completed,6.0
+R00716,P03399,2024-03-07,Oral Surgery,Completed,18.0
+R00717,P03400,2024-08-27,Radiation Oncology,Pending,
+R00718,P03401,2026-04-04,Radiation Oncology,Pending,
+R00719,P03404,2025-07-16,Oral Surgery,Completed,2.0
+R00720,P03409,2024-05-07,Radiation Oncology,Completed,41.0
+R00721,P03414,2023-11-21,Oral Surgery,Completed,15.0
+R00722,P03415,2024-02-18,ENT / Head & Neck Surgery,Completed,21.0
+R00723,P03417,2025-08-17,Oral Surgery,Pending,
+R00724,P03418,2024-10-24,ENT / Head & Neck Surgery,Completed,31.0
+R00725,P03428,2024-02-08,ENT / Head & Neck Surgery,Completed,10.0
+R00726,P03429,2026-03-12,Oral Surgery,Cancelled,
+R00727,P03430,2025-10-19,Oral Surgery,Completed,22.0
+R00728,P03436,2024-12-19,ENT / Head & Neck Surgery,Pending,
+R00729,P03439,2023-05-29,Radiation Oncology,Completed,9.0
+R00730,P03440,2023-06-10,Oral Surgery,Completed,35.0
+R00731,P03441,2025-01-25,Radiation Oncology,Completed,18.0
+R00732,P03447,2025-05-08,Oral Surgery,No-show,
+R00733,P03453,2024-12-15,Oral Surgery,No-show,
+R00734,P03456,2023-05-16,Oral Surgery,Completed,27.0
+R00735,P03460,2025-09-23,ENT / Head & Neck Surgery,Cancelled,
+R00736,P03463,2025-09-25,Radiation Oncology,Completed,29.0
+R00737,P03464,2024-10-20,Radiation Oncology,Pending,
+R00738,P03471,2023-06-20,Oral Surgery,Cancelled,
+R00739,P03475,2025-01-25,Oral Medicine,Pending,
+R00740,P03483,2025-05-30,Radiation Oncology,Pending,
+R00741,P03486,2025-02-19,ENT / Head & Neck Surgery,No-show,
+R00742,P03487,2024-02-06,Oral Medicine,Pending,
+R00743,P03492,2026-02-10,Oral Surgery,No-show,
+R00744,P03493,2024-12-23,Oral Surgery,Completed,9.0
+R00745,P03498,2023-07-28,Radiation Oncology,Cancelled,
+R00746,P03501,2023-06-23,Oral Surgery,No-show,
+R00747,P03512,2024-11-25,Oral Surgery,Completed,32.0
+R00748,P03514,2025-10-09,Oral Surgery,Completed,26.0
+R00749,P03521,2024-02-26,Oral Surgery,No-show,
+R00750,P03524,2025-06-11,Oral Surgery,Completed,46.0
+R00751,P03533,2024-02-07,ENT / Head & Neck Surgery,Cancelled,
+R00752,P03543,2025-10-11,Oral Surgery,Completed,44.0
+R00753,P03546,2024-08-03,ENT / Head & Neck Surgery,Pending,
+R00754,P03550,2024-07-05,Oral Surgery,No-show,
+R00755,P03552,2024-05-24,Oral Surgery,Completed,11.0
+R00756,P03559,2026-03-25,Oral Surgery,Completed,40.0
+R00757,P03568,2026-03-21,Oral Medicine,Completed,23.0
+R00758,P03570,2025-05-23,ENT / Head & Neck Surgery,Pending,
+R00759,P03573,2024-05-12,Oral Surgery,No-show,
+R00760,P03575,2023-08-14,Oral Surgery,Pending,
+R00761,P03577,2024-02-14,Oral Surgery,Completed,10.0
+R00762,P03588,2023-06-03,Oral Medicine,No-show,
+R00763,P03589,2024-12-15,Oral Surgery,Pending,
+R00764,P03590,2023-05-04,Oral Surgery,Pending,
+R00765,P03594,2024-03-01,Oral Surgery,Pending,
+R00766,P03596,2026-03-29,Oral Surgery,Cancelled,
+R00767,P03599,2026-01-01,Radiation Oncology,Completed,41.0
+R00768,P03600,2025-02-07,Oral Surgery,Pending,
+R00769,P03601,2023-10-18,Oral Surgery,Pending,
+R00770,P03602,2023-07-10,Oral Medicine,Completed,8.0
+R00771,P03608,2023-05-02,Oral Surgery,Completed,13.0
+R00772,P03615,2024-11-20,Oral Medicine,Pending,
+R00773,P03618,2023-07-09,Oral Medicine,Completed,8.0
+R00774,P03619,2024-04-15,Oral Surgery,Pending,
+R00775,P03623,2024-07-14,ENT / Head & Neck Surgery,Completed,24.0
+R00776,P03627,2024-08-11,Radiation Oncology,No-show,
+R00777,P03630,2025-08-27,Radiation Oncology,Pending,
+R00778,P03632,2024-04-15,Medical Oncology,Cancelled,
+R00779,P03644,2026-03-12,Oral Medicine,Completed,27.0
+R00780,P03648,2023-07-25,Oral Surgery,Pending,
+R00781,P03650,2024-09-11,Oral Medicine,Pending,
+R00782,P03651,2024-04-02,Oral Medicine,Completed,13.0
+R00783,P03652,2024-01-12,Oral Surgery,Cancelled,
+R00784,P03663,2024-08-11,Oral Surgery,Pending,
+R00785,P03668,2026-01-19,ENT / Head & Neck Surgery,No-show,
+R00786,P03669,2025-09-22,Radiation Oncology,Completed,24.0
+R00787,P03682,2025-04-25,Oral Surgery,Pending,
+R00788,P03693,2025-09-15,Oral Surgery,Completed,13.0
+R00789,P03694,2023-08-23,Oral Medicine,No-show,
+R00790,P03696,2023-10-27,Oral Medicine,Completed,21.0
+R00791,P03709,2026-03-09,Oral Surgery,Completed,12.0
+R00792,P03712,2025-02-01,Oral Medicine,No-show,
+R00793,P03715,2024-04-27,Oral Surgery,Completed,25.0
+R00794,P03722,2024-04-02,Oral Surgery,Completed,20.0
+R00795,P03725,2026-01-18,ENT / Head & Neck Surgery,Pending,
+R00796,P03727,2024-11-07,ENT / Head & Neck Surgery,Completed,12.0
+R00797,P03736,2025-09-23,Oral Medicine,Completed,11.0
+R00798,P03737,2025-06-30,Medical Oncology,Completed,31.0
+R00799,P03744,2024-05-15,Oral Surgery,Completed,33.0
+R00800,P03746,2026-01-09,Oral Surgery,Completed,30.0
+R00801,P03749,2023-11-04,Oral Surgery,Completed,41.0
+R00802,P03751,2025-08-12,Oral Surgery,Completed,7.0
+R00803,P03761,2025-06-20,ENT / Head & Neck Surgery,Pending,
+R00804,P03764,2025-11-16,Oral Medicine,No-show,
+R00805,P03770,2024-01-29,ENT / Head & Neck Surgery,Cancelled,
+R00806,P03774,2023-05-11,Oral Medicine,Completed,5.0
+R00807,P03778,2023-12-29,Radiation Oncology,Pending,
+R00808,P03779,2025-03-20,Oral Surgery,Completed,28.0
+R00809,P03782,2023-10-19,Oral Medicine,Completed,17.0
+R00810,P03785,2025-02-21,ENT / Head & Neck Surgery,Cancelled,
+R00811,P03790,2024-05-27,Oral Surgery,Completed,5.0
+R00812,P03792,2024-07-05,Oral Surgery,Completed,25.0
+R00813,P03807,2025-12-07,ENT / Head & Neck Surgery,Completed,35.0
+R00814,P03814,2025-01-16,Oral Surgery,Completed,38.0
+R00815,P03815,2025-08-17,Oral Surgery,Pending,
+R00816,P03817,2025-03-31,ENT / Head & Neck Surgery,No-show,
+R00817,P03830,2023-06-22,ENT / Head & Neck Surgery,Completed,52.0
+R00818,P03833,2024-09-18,Medical Oncology,Cancelled,
+R00819,P03842,2024-10-26,Medical Oncology,No-show,
+R00820,P03854,2025-10-04,Medical Oncology,Completed,13.0
+R00821,P03855,2024-09-29,Radiation Oncology,Completed,23.0
+R00822,P03870,2024-05-04,Medical Oncology,Completed,29.0
+R00823,P03872,2025-06-21,ENT / Head & Neck Surgery,Pending,
+R00824,P03876,2024-04-18,Oral Surgery,Completed,1.0
+R00825,P03883,2024-06-10,ENT / Head & Neck Surgery,Pending,
+R00826,P03886,2025-09-13,Oral Surgery,Completed,32.0
+R00827,P03889,2024-09-05,Oral Medicine,Completed,16.0
+R00828,P03891,2026-04-11,ENT / Head & Neck Surgery,Completed,25.0
+R00829,P03895,2025-12-25,Oral Surgery,Completed,41.0
+R00830,P03899,2024-08-28,Oral Medicine,Completed,36.0
+R00831,P03907,2026-01-06,Oral Surgery,Pending,
+R00832,P03908,2024-05-15,Oral Surgery,Pending,
+R00833,P03918,2023-07-22,Oral Medicine,Completed,43.0
+R00834,P03920,2025-04-03,Radiation Oncology,No-show,
+R00835,P03923,2023-10-21,Oral Medicine,Completed,17.0
+R00836,P03932,2023-05-18,Oral Surgery,Completed,19.0
+R00837,P03935,2025-01-08,Oral Surgery,Completed,35.0
+R00838,P03937,2025-11-22,Medical Oncology,Cancelled,
+R00839,P03946,2024-04-23,ENT / Head & Neck Surgery,Pending,
+R00840,P03948,2025-02-21,Oral Surgery,Pending,
+R00841,P03950,2023-07-13,Medical Oncology,Completed,20.0
+R00842,P03951,2025-02-23,Oral Surgery,Completed,26.0
+R00843,P03965,2026-02-03,Oral Medicine,Completed,7.0
+R00844,P03970,2024-01-29,Oral Surgery,Pending,
+R00845,P03971,2025-01-12,ENT / Head & Neck Surgery,Cancelled,
+R00846,P03972,2025-08-07,Oral Medicine,Completed,15.0
+R00847,P03977,2024-05-06,Oral Surgery,Pending,
+R00848,P03981,2024-04-18,Medical Oncology,Pending,
+R00849,P03987,2024-03-24,Oral Medicine,Completed,42.0
+R00850,P03994,2023-09-07,Oral Surgery,No-show,
+R00851,P04001,2024-03-05,Oral Surgery,Completed,26.0
+R00852,P04002,2024-12-05,Oral Medicine,Completed,19.0
+R00853,P04005,2025-01-02,Oral Medicine,Completed,24.0
+R00854,P04008,2024-11-07,Oral Medicine,Pending,
+R00855,P04012,2024-07-03,Medical Oncology,Pending,
+R00856,P04013,2024-11-25,Medical Oncology,Completed,19.0
+R00857,P04024,2025-09-16,Oral Surgery,Completed,20.0
+R00858,P04025,2025-10-08,Oral Medicine,Completed,31.0
+R00859,P04026,2024-06-05,Oral Medicine,Completed,33.0
+R00860,P04035,2024-02-26,ENT / Head & Neck Surgery,Completed,5.0
+R00861,P04041,2024-08-14,Oral Surgery,Completed,15.0
+R00862,P04044,2024-12-28,Oral Surgery,Completed,35.0
+R00863,P04050,2024-10-18,Oral Medicine,Completed,22.0
+R00864,P04061,2025-04-24,Radiation Oncology,Completed,43.0
+R00865,P04062,2024-05-07,Oral Surgery,Pending,
+R00866,P04067,2026-02-07,ENT / Head & Neck Surgery,Completed,13.0
+R00867,P04075,2025-03-03,Oral Surgery,Pending,
+R00868,P04082,2025-02-15,Radiation Oncology,Completed,38.0
+R00869,P04095,2023-10-29,Radiation Oncology,No-show,
+R00870,P04097,2026-01-27,Medical Oncology,Completed,47.0
+R00871,P04108,2026-03-29,Oral Surgery,Cancelled,
+R00872,P04110,2023-10-10,Oral Medicine,Completed,1.0
+R00873,P04115,2025-11-30,Oral Medicine,Pending,
+R00874,P04128,2025-08-11,Oral Surgery,Cancelled,
+R00875,P04140,2026-03-22,ENT / Head & Neck Surgery,Pending,
+R00876,P04144,2025-01-13,Oral Medicine,Completed,14.0
+R00877,P04147,2024-07-07,ENT / Head & Neck Surgery,No-show,
+R00878,P04152,2025-10-11,Oral Surgery,Completed,4.0
+R00879,P04154,2025-09-04,Oral Medicine,Completed,25.0
+R00880,P04157,2024-02-24,ENT / Head & Neck Surgery,Completed,30.0
+R00881,P04160,2025-01-25,ENT / Head & Neck Surgery,Pending,
+R00882,P04179,2023-09-07,ENT / Head & Neck Surgery,Cancelled,
+R00883,P04183,2024-02-03,Medical Oncology,Completed,31.0
+R00884,P04187,2026-01-14,Oral Medicine,Completed,25.0
+R00885,P04192,2023-08-29,Oral Surgery,Pending,
+R00886,P04201,2025-01-13,Oral Surgery,Completed,9.0
+R00887,P04203,2025-04-01,ENT / Head & Neck Surgery,Completed,25.0
+R00888,P04215,2024-12-13,ENT / Head & Neck Surgery,Pending,
+R00889,P04218,2023-10-22,ENT / Head & Neck Surgery,No-show,
+R00890,P04220,2023-08-13,ENT / Head & Neck Surgery,Completed,25.0
+R00891,P04222,2024-11-14,Oral Medicine,Pending,
+R00892,P04225,2024-12-11,Radiation Oncology,Completed,20.0
+R00893,P04233,2025-11-08,Oral Medicine,Cancelled,
+R00894,P04237,2024-05-10,Medical Oncology,Pending,
+R00895,P04241,2026-01-23,Oral Medicine,Pending,
+R00896,P04259,2024-06-22,ENT / Head & Neck Surgery,Completed,12.0
+R00897,P04289,2025-01-05,Oral Surgery,Pending,
+R00898,P04292,2025-01-31,Oral Surgery,Completed,16.0
+R00899,P04294,2024-10-04,Oral Surgery,Pending,
+R00900,P04295,2024-04-18,Oral Medicine,Completed,14.0
+R00901,P04306,2024-03-06,Medical Oncology,Pending,
+R00902,P04311,2023-05-14,ENT / Head & Neck Surgery,Pending,
+R00903,P04318,2023-11-29,Radiation Oncology,Pending,
+R00904,P04321,2023-11-09,Radiation Oncology,Completed,24.0
+R00905,P04330,2024-03-18,Oral Surgery,Completed,19.0
+R00906,P04333,2025-03-08,Oral Surgery,Pending,
+R00907,P04334,2024-02-10,Oral Medicine,No-show,
+R00908,P04340,2024-03-12,Oral Surgery,Pending,
+R00909,P04349,2025-07-10,Oral Medicine,Completed,15.0
+R00910,P04352,2025-10-25,Oral Surgery,Completed,27.0
+R00911,P04361,2023-08-22,Oral Surgery,Completed,31.0
+R00912,P04363,2023-10-06,Oral Surgery,Completed,16.0
+R00913,P04370,2024-03-29,Medical Oncology,Completed,13.0
+R00914,P04375,2024-06-10,Oral Surgery,Completed,39.0
+R00915,P04379,2025-02-05,Medical Oncology,No-show,
+R00916,P04381,2026-03-30,Oral Medicine,Completed,10.0
+R00917,P04384,2025-12-04,Oral Medicine,Pending,
+R00918,P04387,2023-06-10,Medical Oncology,No-show,
+R00919,P04417,2024-11-10,Medical Oncology,Completed,28.0
+R00920,P04423,2024-08-17,Oral Surgery,Completed,13.0
+R00921,P04424,2025-06-16,Radiation Oncology,Completed,7.0
+R00922,P04430,2025-06-16,Oral Medicine,Completed,9.0
+R00923,P04434,2024-02-20,Oral Surgery,Cancelled,
+R00924,P04437,2025-08-31,Oral Surgery,Completed,35.0
+R00925,P04450,2023-06-23,Oral Medicine,Completed,17.0
+R00926,P04459,2024-08-01,Medical Oncology,Completed,19.0
+R00927,P04467,2023-11-25,Medical Oncology,Completed,19.0
+R00928,P04468,2023-08-14,Oral Surgery,No-show,
+R00929,P04477,2025-07-20,Radiation Oncology,Completed,36.0
+R00930,P04478,2025-04-24,Oral Surgery,Completed,13.0
+R00931,P04480,2025-10-11,Oral Medicine,Cancelled,
+R00932,P04481,2024-09-08,Oral Medicine,Cancelled,
+R00933,P04484,2023-11-05,Oral Surgery,Cancelled,
+R00934,P04489,2024-11-08,Oral Surgery,Completed,37.0
+R00935,P04497,2025-08-21,Oral Surgery,No-show,
+R00936,P04500,2023-06-23,Radiation Oncology,Pending,
+R00937,P04501,2024-09-29,ENT / Head & Neck Surgery,No-show,
+R00938,P04512,2024-03-04,Medical Oncology,Pending,
+R00939,P04513,2025-03-12,ENT / Head & Neck Surgery,Completed,12.0
+R00940,P04519,2025-09-11,Radiation Oncology,Pending,
+R00941,P04528,2024-11-20,ENT / Head & Neck Surgery,Completed,15.0
+R00942,P04538,2023-06-09,ENT / Head & Neck Surgery,Completed,18.0
+R00943,P04540,2026-02-21,Oral Medicine,Completed,32.0
+R00944,P04541,2023-09-05,Oral Medicine,Completed,16.0
+R00945,P04546,2025-12-29,Oral Medicine,Completed,37.0
+R00946,P04549,2025-03-08,ENT / Head & Neck Surgery,No-show,
+R00947,P04553,2023-08-15,Oral Medicine,No-show,
+R00948,P04555,2026-01-16,Oral Medicine,Completed,38.0
+R00949,P04559,2025-01-14,Oral Surgery,No-show,
+R00950,P04569,2023-07-16,Oral Surgery,Pending,
+R00951,P04573,2023-07-28,Oral Medicine,Completed,14.0
+R00952,P04574,2023-10-01,Oral Medicine,Cancelled,
+R00953,P04579,2024-06-29,ENT / Head & Neck Surgery,Completed,33.0
+R00954,P04580,2023-09-05,Oral Surgery,Pending,
+R00955,P04582,2024-09-02,Oral Surgery,Completed,15.0
+R00956,P04583,2024-09-12,Oral Surgery,Completed,36.0
+R00957,P04585,2024-05-18,Oral Surgery,Completed,23.0
+R00958,P04593,2026-03-19,Oral Surgery,Completed,23.0
+R00959,P04596,2025-02-27,Oral Surgery,Completed,57.0
+R00960,P04601,2025-04-16,Oral Surgery,Completed,56.0
+R00961,P04605,2026-02-05,Oral Surgery,Completed,45.0
+R00962,P04608,2023-07-18,Oral Medicine,Pending,
+R00963,P04613,2023-12-18,ENT / Head & Neck Surgery,Pending,
+R00964,P04620,2025-08-09,ENT / Head & Neck Surgery,Pending,
+R00965,P04622,2023-08-25,ENT / Head & Neck Surgery,Cancelled,
+R00966,P04636,2025-02-15,Radiation Oncology,Completed,21.0
+R00967,P04637,2026-03-21,Oral Surgery,Completed,39.0
+R00968,P04640,2024-09-17,Oral Surgery,Completed,34.0
+R00969,P04650,2024-10-11,Oral Surgery,Completed,2.0
+R00970,P04655,2024-03-11,Medical Oncology,Cancelled,
+R00971,P04656,2025-01-04,Oral Surgery,Cancelled,
+R00972,P04665,2023-06-05,Oral Medicine,Completed,18.0
+R00973,P04668,2023-11-05,Radiation Oncology,Cancelled,
+R00974,P04669,2023-10-31,Oral Surgery,No-show,
+R00975,P04679,2023-11-22,Radiation Oncology,Pending,
+R00976,P04684,2023-12-22,Oral Surgery,Completed,29.0
+R00977,P04693,2025-08-21,Oral Medicine,Completed,24.0
+R00978,P04699,2025-07-16,Oral Surgery,No-show,
+R00979,P04704,2025-01-09,Oral Surgery,Pending,
+R00980,P04710,2026-01-20,ENT / Head & Neck Surgery,No-show,
+R00981,P04716,2025-07-12,Oral Surgery,Cancelled,
+R00982,P04717,2026-03-07,ENT / Head & Neck Surgery,Pending,
+R00983,P04718,2025-11-08,Oral Surgery,Pending,
+R00984,P04719,2024-08-12,ENT / Head & Neck Surgery,No-show,
+R00985,P04727,2025-07-29,ENT / Head & Neck Surgery,Completed,30.0
+R00986,P04739,2023-08-26,Oral Surgery,Completed,4.0
+R00987,P04752,2023-08-14,Oral Surgery,Pending,
+R00988,P04753,2025-04-20,Oral Surgery,Cancelled,
+R00989,P04755,2024-03-26,Oral Surgery,Pending,
+R00990,P04758,2024-04-30,Oral Surgery,Pending,
+R00991,P04759,2024-06-26,Oral Medicine,Completed,19.0
+R00992,P04763,2023-04-29,Oral Surgery,Completed,19.0
+R00993,P04773,2024-01-27,Oral Medicine,Completed,35.0
+R00994,P04774,2023-09-12,Oral Surgery,Completed,21.0
+R00995,P04779,2024-09-28,Oral Medicine,Completed,26.0
+R00996,P04780,2023-10-16,Radiation Oncology,Completed,18.0
+R00997,P04784,2025-08-15,ENT / Head & Neck Surgery,Cancelled,
+R00998,P04786,2023-09-04,Oral Surgery,Completed,21.0
+R00999,P04788,2024-05-02,ENT / Head & Neck Surgery,Cancelled,
+R01000,P04794,2023-05-20,Radiation Oncology,Cancelled,
+R01001,P04805,2024-02-18,Radiation Oncology,No-show,
+R01002,P04815,2025-08-26,Oral Medicine,Pending,
+R01003,P04817,2024-07-31,Oral Surgery,Completed,10.0
+R01004,P04818,2025-05-22,Oral Surgery,Completed,53.0
+R01005,P04820,2026-01-22,ENT / Head & Neck Surgery,Completed,25.0
+R01006,P04823,2025-11-08,Oral Surgery,Completed,13.0
+R01007,P04826,2025-03-03,Radiation Oncology,Pending,
+R01008,P04836,2025-07-28,Oral Surgery,Pending,
+R01009,P04845,2024-09-02,Oral Surgery,Completed,8.0
+R01010,P04863,2025-05-02,ENT / Head & Neck Surgery,Pending,
+R01011,P04864,2025-07-18,Oral Surgery,Completed,16.0
+R01012,P04866,2023-12-24,Oral Medicine,Completed,36.0
+R01013,P04868,2023-12-08,Oral Surgery,Pending,
+R01014,P04872,2024-08-22,Oral Surgery,Pending,
+R01015,P04884,2025-12-22,Oral Surgery,Completed,12.0
+R01016,P04893,2025-05-11,Oral Medicine,Pending,
+R01017,P04895,2026-01-11,Oral Medicine,Pending,
+R01018,P04898,2024-06-03,Medical Oncology,Completed,21.0
+R01019,P04906,2025-05-30,Radiation Oncology,Completed,22.0
+R01020,P04908,2023-11-27,Oral Surgery,Completed,30.0
+R01021,P04909,2024-05-23,Oral Surgery,Pending,
+R01022,P04914,2024-10-21,Radiation Oncology,Pending,
+R01023,P04921,2024-02-25,Medical Oncology,Completed,38.0
+R01024,P04926,2025-10-03,Oral Surgery,Completed,7.0
+R01025,P04933,2024-08-01,Radiation Oncology,Pending,
+R01026,P04935,2026-01-06,Oral Medicine,Pending,
+R01027,P04936,2025-04-15,Medical Oncology,No-show,
+R01028,P04950,2024-07-12,Oral Medicine,Pending,
+R01029,P04953,2025-07-29,Oral Surgery,No-show,
+R01030,P04954,2023-05-20,Medical Oncology,Completed,26.0
+R01031,P04963,2024-05-12,Medical Oncology,Pending,
+R01032,P04973,2024-04-24,Oral Medicine,Pending,
+R01033,P04981,2024-07-26,Oral Medicine,Completed,21.0
+R01034,P04986,2024-06-02,Oral Surgery,Completed,18.0
+R01035,P04989,2024-02-25,Radiation Oncology,Completed,33.0
+R01036,P04991,2024-06-23,ENT / Head & Neck Surgery,Completed,33.0
+R01037,P04997,2026-03-05,Oral Surgery,Completed,25.0
+R01038,P05000,2025-12-27,Oral Surgery,Pending,
